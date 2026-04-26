@@ -14,6 +14,9 @@ async function cargarEncuestas() {
 
     const data = await response.json();
 
+    document.getElementById('total-encuestas').textContent =
+      data.features.length;
+
     const markers = L.markerClusterGroup();
 
     const capaEncuestas = L.geoJSON(data, {
@@ -22,7 +25,7 @@ async function cargarEncuestas() {
 
         const color =
           feature.properties.sexo === 'F'
-            ? '#e91e63'
+            ? 'rgb(226, 30, 233)'
             : '#2196f3';
 
         return L.marker(latlng, {

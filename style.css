@@ -3,9 +3,61 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  display: flex;
+  height: 100vh;
+}
+
+#sidebar {
+  width: 300px;
+  background: #ffffff;
+  border-right: 1px solid #ddd;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
 }
 
 #map {
-  width: 100%;
-  height: 100vh;
+  flex: 1;
+}
+
+.sidebar-section {
+  margin-bottom: 24px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.male {
+  background: #2196f3;
+}
+
+.female {
+  background: #e91e63;
+}
+
+.dashboard-link {
+  display: inline-block;
+  padding: 10px 14px;
+  background: #222;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.dashboard-link:hover {
+  background: #444;
 }

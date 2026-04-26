@@ -24,10 +24,47 @@
 </head>
 <body>
 
-  <div id="map"></div>
+  <div id="app">
+
+    <aside id="sidebar">
+
+      <h1>Encuestas</h1>
+
+      <div class="sidebar-section">
+        <strong>Total:</strong>
+        <span id="total-encuestas">0</span>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Leyenda</h3>
+
+        <div class="legend-item">
+          <span class="legend-color male"></span>
+          Masculino
+        </div>
+
+        <div class="legend-item">
+          <span class="legend-color female"></span>
+          Femenino
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <a href="#" class="dashboard-link">
+          Ver Dashboard
+        </a>
+      </div>
+
+    </aside>
+
+    <main id="map"></main>
+
+  </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>  
+
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
   <script src="app.js"></script>
 
 </body>
