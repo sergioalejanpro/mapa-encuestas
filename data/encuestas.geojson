@@ -4,131 +4,1701 @@
     {
       "type": "Feature",
       "properties": {
+        "folio_encuesta": "NAU-0001",
+        "edad": 70,
+        "sexo": "M",
+        "fecha": "2026-04-06",
+        "hora": "13:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2269,
+          19.4788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0002",
+        "edad": 47,
+        "sexo": "M",
+        "fecha": "2026-04-06",
+        "hora": "12:36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2353,
+          19.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0003",
+        "edad": 48,
+        "sexo": "M",
+        "fecha": "2026-04-07",
+        "hora": "10:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2505,
+          19.4827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0004",
+        "edad": 18,
+        "sexo": "F",
+        "fecha": "2026-04-08",
+        "hora": "10:21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2483,
+          19.4785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0005",
+        "edad": 38,
+        "sexo": "M",
+        "fecha": "2026-04-01",
+        "hora": "11:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2432,
+          19.4662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0006",
+        "edad": 46,
+        "sexo": "F",
+        "fecha": "2026-04-15",
+        "hora": "13:23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2336,
+          19.4658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0007",
+        "edad": 51,
+        "sexo": "M",
+        "fecha": "2026-04-09",
+        "hora": "12:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2406,
+          19.4633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0008",
+        "edad": 61,
+        "sexo": "F",
+        "fecha": "2026-04-10",
+        "hora": "11:05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2275,
+          19.4713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0009",
+        "edad": 24,
+        "sexo": "M",
+        "fecha": "2026-04-07",
+        "hora": "11:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2367,
+          19.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0010",
+        "edad": 64,
+        "sexo": "M",
+        "fecha": "2026-04-05",
+        "hora": "08:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.247,
+          19.4646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0011",
+        "edad": 38,
+        "sexo": "M",
+        "fecha": "2026-04-07",
+        "hora": "18:20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2502,
+          19.461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0012",
+        "edad": 68,
+        "sexo": "M",
+        "fecha": "2026-04-15",
+        "hora": "10:04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2417,
+          19.4648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0013",
+        "edad": 30,
+        "sexo": "F",
+        "fecha": "2026-04-16",
+        "hora": "13:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.247,
+          19.4815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0014",
+        "edad": 18,
+        "sexo": "F",
+        "fecha": "2026-04-20",
+        "hora": "19:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2525,
+          19.4807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0015",
+        "edad": 68,
+        "sexo": "F",
+        "fecha": "2026-04-12",
+        "hora": "08:24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.25,
+          19.4867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0016",
         "edad": 34,
+        "sexo": "F",
+        "fecha": "2026-04-25",
+        "hora": "16:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2418,
+          19.4761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0017",
+        "edad": 60,
+        "sexo": "F",
+        "fecha": "2026-04-11",
+        "hora": "15:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2293,
+          19.4603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0018",
+        "edad": 23,
+        "sexo": "M",
+        "fecha": "2026-04-16",
+        "hora": "10:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2526,
+          19.4866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0019",
+        "edad": 41,
+        "sexo": "F",
+        "fecha": "2026-04-17",
+        "hora": "11:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2477,
+          19.4861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0020",
+        "edad": 22,
+        "sexo": "F",
+        "fecha": "2026-04-11",
+        "hora": "13:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2463,
+          19.471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0021",
+        "edad": 53,
+        "sexo": "F",
+        "fecha": "2026-04-12",
+        "hora": "17:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2458,
+          19.4663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0022",
+        "edad": 48,
+        "sexo": "M",
+        "fecha": "2026-04-02",
+        "hora": "10:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2262,
+          19.4747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0023",
+        "edad": 70,
+        "sexo": "F",
+        "fecha": "2026-04-14",
+        "hora": "18:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2404,
+          19.477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0024",
+        "edad": 57,
+        "sexo": "F",
+        "fecha": "2026-04-06",
+        "hora": "08:33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2545,
+          19.4888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0025",
+        "edad": 57,
+        "sexo": "F",
+        "fecha": "2026-04-16",
+        "hora": "08:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2315,
+          19.4853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0026",
+        "edad": 27,
+        "sexo": "F",
+        "fecha": "2026-04-04",
+        "hora": "18:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2422,
+          19.4691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0027",
+        "edad": 21,
+        "sexo": "M",
+        "fecha": "2026-04-19",
+        "hora": "15:47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.225,
+          19.4627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0028",
+        "edad": 49,
+        "sexo": "F",
+        "fecha": "2026-04-08",
+        "hora": "14:42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2423,
+          19.4894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0029",
+        "edad": 37,
+        "sexo": "M",
+        "fecha": "2026-04-22",
+        "hora": "12:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2441,
+          19.4622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0030",
+        "edad": 19,
+        "sexo": "M",
+        "fecha": "2026-04-02",
+        "hora": "11:31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2362,
+          19.4841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0031",
+        "edad": 60,
+        "sexo": "F",
+        "fecha": "2026-04-20",
+        "hora": "12:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2435,
+          19.4832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0032",
+        "edad": 64,
+        "sexo": "M",
+        "fecha": "2026-04-22",
+        "hora": "15:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2322,
+          19.4757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0033",
+        "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-20",
+        "hora": "11:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2326,
+          19.4674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0034",
+        "edad": 48,
+        "sexo": "M",
+        "fecha": "2026-04-01",
+        "hora": "09:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2472,
+          19.4689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0035",
+        "edad": 27,
+        "sexo": "F",
+        "fecha": "2026-04-03",
+        "hora": "15:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2496,
+          19.4848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0036",
+        "edad": 37,
+        "sexo": "F",
+        "fecha": "2026-04-18",
+        "hora": "12:03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23,
+          19.4838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0037",
+        "edad": 24,
+        "sexo": "M",
+        "fecha": "2026-04-12",
+        "hora": "10:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.236,
+          19.4865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0038",
+        "edad": 21,
+        "sexo": "F",
+        "fecha": "2026-04-20",
+        "hora": "19:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.225,
+          19.4669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0039",
+        "edad": 45,
+        "sexo": "M",
+        "fecha": "2026-04-20",
+        "hora": "08:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2405,
+          19.4865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0040",
+        "edad": 63,
+        "sexo": "M",
+        "fecha": "2026-04-12",
+        "hora": "13:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2312,
+          19.4741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0041",
+        "edad": 26,
+        "sexo": "M",
+        "fecha": "2026-04-13",
+        "hora": "19:27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2269,
+          19.4669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0042",
+        "edad": 33,
+        "sexo": "F",
+        "fecha": "2026-04-05",
+        "hora": "17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2526,
+          19.4735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0043",
+        "edad": 19,
+        "sexo": "F",
+        "fecha": "2026-04-24",
+        "hora": "10:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2303,
+          19.463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0044",
+        "edad": 68,
+        "sexo": "F",
+        "fecha": "2026-04-24",
+        "hora": "08:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2259,
+          19.4644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0045",
+        "edad": 68,
+        "sexo": "M",
+        "fecha": "2026-04-15",
+        "hora": "08:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2393,
+          19.4889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0046",
+        "edad": 60,
+        "sexo": "M",
+        "fecha": "2026-04-10",
+        "hora": "14:12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2307,
+          19.4805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0047",
+        "edad": 43,
+        "sexo": "M",
+        "fecha": "2026-04-06",
+        "hora": "14:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2423,
+          19.4881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0048",
+        "edad": 67,
+        "sexo": "F",
+        "fecha": "2026-04-24",
+        "hora": "12:29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.252,
+          19.4823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0049",
+        "edad": 39,
+        "sexo": "F",
+        "fecha": "2026-04-08",
+        "hora": "08:39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2283,
+          19.4677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0050",
+        "edad": 50,
+        "sexo": "M",
+        "fecha": "2026-04-08",
+        "hora": "17:56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2376,
+          19.4738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0051",
+        "edad": 38,
+        "sexo": "M",
+        "fecha": "2026-04-07",
+        "hora": "16:49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2408,
+          19.4615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0052",
+        "edad": 24,
+        "sexo": "F",
+        "fecha": "2026-04-01",
+        "hora": "15:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2251,
+          19.4861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0053",
+        "edad": 66,
+        "sexo": "M",
+        "fecha": "2026-04-15",
+        "hora": "19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2536,
+          19.4845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0054",
+        "edad": 41,
+        "sexo": "M",
+        "fecha": "2026-04-07",
+        "hora": "12:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2538,
+          19.4898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0055",
+        "edad": 41,
+        "sexo": "M",
+        "fecha": "2026-04-04",
+        "hora": "15:25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2415,
+          19.4863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0056",
+        "edad": 60,
+        "sexo": "F",
+        "fecha": "2026-04-17",
+        "hora": "11:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2437,
+          19.4844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0057",
+        "edad": 38,
+        "sexo": "M",
+        "fecha": "2026-04-13",
+        "hora": "11:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2334,
+          19.4827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0058",
+        "edad": 29,
+        "sexo": "F",
+        "fecha": "2026-04-13",
+        "hora": "18:10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2481,
+          19.4707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0059",
+        "edad": 39,
+        "sexo": "M",
+        "fecha": "2026-04-14",
+        "hora": "17:28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2464,
+          19.4683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0060",
+        "edad": 53,
+        "sexo": "F",
+        "fecha": "2026-04-16",
+        "hora": "13:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2463,
+          19.4822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0061",
+        "edad": 39,
+        "sexo": "M",
+        "fecha": "2026-04-25",
+        "hora": "19:41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2515,
+          19.4787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0062",
+        "edad": 30,
+        "sexo": "F",
+        "fecha": "2026-04-01",
+        "hora": "08:13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2386,
+          19.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0063",
+        "edad": 46,
+        "sexo": "F",
+        "fecha": "2026-04-19",
+        "hora": "17:06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2349,
+          19.4855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0064",
+        "edad": 32,
+        "sexo": "M",
+        "fecha": "2026-04-23",
+        "hora": "17:12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2475,
+          19.4794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0065",
+        "edad": 66,
+        "sexo": "M",
+        "fecha": "2026-04-05",
+        "hora": "18:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2439,
+          19.4845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0066",
+        "edad": 25,
+        "sexo": "M",
+        "fecha": "2026-04-09",
+        "hora": "19:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2444,
+          19.4824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0067",
+        "edad": 45,
+        "sexo": "M",
+        "fecha": "2026-04-22",
+        "hora": "12:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2403,
+          19.4885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0068",
+        "edad": 28,
+        "sexo": "F",
+        "fecha": "2026-04-16",
+        "hora": "08:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2328,
+          19.4602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0069",
+        "edad": 37,
+        "sexo": "F",
+        "fecha": "2026-04-02",
+        "hora": "11:43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2425,
+          19.4699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0070",
+        "edad": 58,
+        "sexo": "M",
+        "fecha": "2026-04-25",
+        "hora": "16:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2288,
+          19.4751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0071",
+        "edad": 30,
+        "sexo": "F",
+        "fecha": "2026-04-15",
+        "hora": "09:03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2459,
+          19.4646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0072",
+        "edad": 61,
+        "sexo": "F",
+        "fecha": "2026-04-21",
+        "hora": "18:58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2369,
+          19.4799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0073",
+        "edad": 57,
+        "sexo": "M",
+        "fecha": "2026-04-14",
+        "hora": "08:04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2471,
+          19.484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0074",
+        "edad": 30,
+        "sexo": "M",
+        "fecha": "2026-04-03",
+        "hora": "16:35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2267,
+          19.4771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0075",
+        "edad": 41,
+        "sexo": "F",
+        "fecha": "2026-04-16",
+        "hora": "15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2526,
+          19.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0076",
+        "edad": 20,
+        "sexo": "M",
+        "fecha": "2026-04-18",
+        "hora": "09:54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2532,
+          19.4642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0077",
+        "edad": 47,
+        "sexo": "M",
+        "fecha": "2026-04-11",
+        "hora": "09:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2295,
+          19.4883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0078",
+        "edad": 36,
+        "sexo": "F",
+        "fecha": "2026-04-02",
+        "hora": "14:18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.232,
+          19.4898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0079",
+        "edad": 64,
+        "sexo": "M",
+        "fecha": "2026-04-13",
+        "hora": "08:07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2377,
+          19.4636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0080",
+        "edad": 47,
+        "sexo": "M",
+        "fecha": "2026-04-14",
+        "hora": "19:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2459,
+          19.4839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0081",
+        "edad": 28,
+        "sexo": "F",
+        "fecha": "2026-04-02",
         "hora": "10:15"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2395, 19.4752]
+        "coordinates": [
+          -99.2491,
+          19.4829
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "edad": 29,
-        "sexo": "F",
-        "fecha": "2026-04-20",
-        "hora": "11:02"
+        "folio_encuesta": "NAU-0082",
+        "edad": 26,
+        "sexo": "M",
+        "fecha": "2026-04-08",
+        "hora": "19:17"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2318, 19.4824]
+        "coordinates": [
+          -99.2534,
+          19.4707
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "folio_encuesta": "NAU-0083",
+        "edad": 53,
+        "sexo": "M",
+        "fecha": "2026-04-15",
+        "hora": "17:14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2288,
+          19.4875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0084",
+        "edad": 69,
+        "sexo": "M",
+        "fecha": "2026-04-03",
+        "hora": "19:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2284,
+          19.4762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0085",
+        "edad": 64,
+        "sexo": "F",
+        "fecha": "2026-04-03",
+        "hora": "09:01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2461,
+          19.4893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0086",
+        "edad": 42,
+        "sexo": "F",
+        "fecha": "2026-04-23",
+        "hora": "15:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2378,
+          19.4619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0087",
         "edad": 41,
         "sexo": "M",
-        "fecha": "2026-04-21",
-        "hora": "09:48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.2451, 19.4697]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "edad": 22,
-        "sexo": "F",
-        "fecha": "2026-04-21",
-        "hora": "13:11"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.2276, 19.4785]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "edad": 38,
-        "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "15:26"
+        "hora": "16:02"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2369, 19.4863]
+        "coordinates": [
+          -99.2277,
+          19.4606
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "edad": 31,
-        "sexo": "F",
-        "fecha": "2026-04-22",
-        "hora": "16:40"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.2428, 19.4731]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "edad": 45,
+        "folio_encuesta": "NAU-0088",
+        "edad": 18,
         "sexo": "M",
-        "fecha": "2026-04-23",
-        "hora": "08:55"
+        "fecha": "2026-04-11",
+        "hora": "18:16"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2332, 19.4678]
+        "coordinates": [
+          -99.2364,
+          19.4651
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "edad": 27,
+        "folio_encuesta": "NAU-0089",
+        "edad": 35,
         "sexo": "F",
-        "fecha": "2026-04-23",
-        "hora": "12:33"
+        "fecha": "2026-04-17",
+        "hora": "14:51"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2484, 19.4802]
+        "coordinates": [
+          -99.2251,
+          19.4895
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "folio_encuesta": "NAU-0090",
+        "edad": 57,
+        "sexo": "F",
+        "fecha": "2026-04-09",
+        "hora": "14:27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2278,
+          19.4837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0091",
         "edad": 36,
         "sexo": "M",
-        "fecha": "2026-04-24",
-        "hora": "14:17"
+        "fecha": "2026-04-03",
+        "hora": "11:59"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2294, 19.4715]
+        "coordinates": [
+          -99.2403,
+          19.4765
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "edad": 24,
+        "folio_encuesta": "NAU-0092",
+        "edad": 35,
         "sexo": "F",
-        "fecha": "2026-04-24",
-        "hora": "17:05"
+        "fecha": "2026-04-15",
+        "hora": "16:05"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.2407, 19.4841]
+        "coordinates": [
+          -99.2438,
+          19.4711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0093",
+        "edad": 62,
+        "sexo": "F",
+        "fecha": "2026-04-08",
+        "hora": "12:38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2432,
+          19.4697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0094",
+        "edad": 56,
+        "sexo": "M",
+        "fecha": "2026-04-25",
+        "hora": "12:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2394,
+          19.4712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0095",
+        "edad": 41,
+        "sexo": "F",
+        "fecha": "2026-04-18",
+        "hora": "13:53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2327,
+          19.4668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0096",
+        "edad": 52,
+        "sexo": "M",
+        "fecha": "2026-04-14",
+        "hora": "11:37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.228,
+          19.4719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0097",
+        "edad": 47,
+        "sexo": "F",
+        "fecha": "2026-04-11",
+        "hora": "17:16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2358,
+          19.4757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0098",
+        "edad": 44,
+        "sexo": "F",
+        "fecha": "2026-04-13",
+        "hora": "10:09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.242,
+          19.4818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0099",
+        "edad": 28,
+        "sexo": "F",
+        "fecha": "2026-04-06",
+        "hora": "12:07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2339,
+          19.4892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "folio_encuesta": "NAU-0100",
+        "edad": 35,
+        "sexo": "M",
+        "fecha": "2026-04-17",
+        "hora": "14:22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2512,
+          19.485
+        ]
       }
     }
   ]

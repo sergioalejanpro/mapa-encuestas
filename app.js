@@ -59,6 +59,7 @@ async function cargarEncuestas() {
         const popup = `
           <div>
             <b>Encuesta</b><br>
+            Folio: ${props.folio_encuesta}<br>
             Edad: ${props.edad}<br>
             Sexo: ${props.sexo}<br>
             Fecha: ${props.fecha}<br>
