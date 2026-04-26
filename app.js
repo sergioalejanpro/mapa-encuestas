@@ -1,4 +1,10 @@
-const map = L.map('map').setView([19.4752, -99.2395], 13);
+const map = L.map('map').setView(
+  [
+    CONFIG.initialView.lat,
+    CONFIG.initialView.lng
+  ],
+  CONFIG.initialView.zoom
+);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors'
@@ -6,7 +12,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 async function cargarEncuestas() {
   try {
-    const response = await fetch('./data/encuestas.geojson');
+    const response = await fetch(CONFIG.dataUrl);
 
     if (!response.ok) {
       throw new Error('No se pudo cargar el archivo GeoJSON');
@@ -25,8 +31,8 @@ async function cargarEncuestas() {
 
         const color =
           feature.properties.sexo === 'F'
-            ? 'rgb(226, 30, 233)'
-            : '#2196f3';
+            ? CONFIG.colors.female
+            : CONFIG.colors.male;
 
         return L.marker(latlng, {
           icon: L.divIcon({
