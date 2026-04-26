@@ -19,6 +19,14 @@ async function cargarMunicipios() {
 
   const data = await response.json();
 
+  const naucalpanFeature = data.features.find(
+    feature => feature.properties.municipio == 58
+  );
+
+  const naucalpanLayer = L.geoJSON(naucalpanFeature);
+
+  map.fitBounds(naucalpanLayer.getBounds());
+
   municipiosLayer = L.geoJSON(data, {
 
     style: (feature) => {
@@ -151,8 +159,6 @@ async function inicializarMapa() {
       }
 
     ).addTo(map);
-
-    map.fitBounds(encuestasLayer.getBounds());
 
   } catch (error) {
 
