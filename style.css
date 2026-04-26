@@ -61,3 +61,14 @@ body {
 .dashboard-link:hover {
   background: #444;
 }
+
+#seccion-info {
+  margin-top: 12px;
+  padding: 14px;
+  background: #f5f7fb;
+  border-left: 4px solid #ff9800;
+  border-radius: 6px;
+  font-size: 15px;
+  line-height: 1.5;
+  min-height: 48px;
+}

@@ -13,6 +13,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let municipiosLayer;
 let seccionesNaucalpanLayer;
 let encuestasLayer;
+let encuestasGeoJson;
 
 async function cargarMunicipios() {
 
@@ -109,6 +110,16 @@ async function cargarSeccionesNaucalpan() {
 
         const targetLayer = event.target;
 
+        const seccion = feature.properties.seccion;
+
+        const totalEncuestas =
+          contarEncuestasPorSeccion(seccion);
+
+        document.getElementById('seccion-info').innerHTML = `
+          <b>Sección:</b> ${seccion}<br>
+          <b>Encuestas:</b> ${totalEncuestas}
+        `;
+
         targetLayer.setStyle({
 
           weight: 3,
@@ -141,6 +152,8 @@ async function cargarEncuestas() {
   const response = await fetch(CONFIG.dataUrl);
 
   const data = await response.json();
+
+  encuestasGeoJson = data;
 
   document.getElementById('total-encuestas').textContent =
     data.features.length;
@@ -240,6 +253,14 @@ async function inicializarMapa() {
     console.error(error);
 
   }
+
+}
+
+function contarEncuestasPorSeccion(seccion) {
+
+  return encuestasGeoJson.features.filter(
+    feature => feature.properties.seccion == seccion
+  ).length;
 
 }
 
