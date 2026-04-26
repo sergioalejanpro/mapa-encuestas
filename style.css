@@ -81,3 +81,7 @@ body {
   border: 1px solid #ccc;
   font-size: 14px;
 }
+
+.leaflet-interactive:focus {
+  outline: none;
+}

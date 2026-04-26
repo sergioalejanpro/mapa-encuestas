@@ -81,12 +81,16 @@ async function cargarSeccionesNaucalpan() {
 
       return {
 
-        color: '#ff6b6b',
-        weight: 2,
-        opacity: 1,
+        color: '#666',
+        weight: 1,
+        fillOpacity: 0
 
-        fillColor: '#ff6b6b',
-        fillOpacity: 0.1
+        // color: '#ff6b6b',
+        // weight: 2,
+        // opacity: 1,
+
+        // fillColor: '#ff6b6b',
+        // fillOpacity: 0.1
 
       };
 
@@ -129,8 +133,6 @@ async function cargarSeccionesNaucalpan() {
 
         });
 
-        // targetLayer.bringToFront();
-
       },
 
       mouseout: (event) => {
@@ -140,7 +142,17 @@ async function cargarSeccionesNaucalpan() {
         document.getElementById('seccion-info').innerHTML =
           'Sin sección seleccionada';
 
-      }
+      },
+
+      click: (event) => {
+
+        map.fitBounds(event.target.getBounds(), {
+
+          padding: [20, 20]
+
+        });
+
+      }      
 
     });
 
