@@ -13,7 +13,8 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let municipiosLayer;
 let seccionesNaucalpanLayer;
 let encuestasLayer;
-let encuestasGeoJson;
+let encuestasGeojson;
+let sexoFilter = 'ALL';
 
 async function cargarMunicipios() {
 
@@ -128,13 +129,16 @@ async function cargarSeccionesNaucalpan() {
 
         });
 
-        targetLayer.bringToFront();
+        // targetLayer.bringToFront();
 
       },
 
       mouseout: (event) => {
 
         seccionesNaucalpanLayer.resetStyle(event.target);
+
+        document.getElementById('seccion-info').innerHTML =
+          'Sin sección seleccionada';
 
       }
 
@@ -146,21 +150,38 @@ async function cargarSeccionesNaucalpan() {
 
 }
 
+function renderEncuestas() {
 
-async function cargarEncuestas() {
+  if (encuestasLayer) {
 
-  const response = await fetch(CONFIG.dataUrl);
+    map.removeLayer(encuestasLayer);
 
-  const data = await response.json();
+  }
 
-  encuestasGeoJson = data;
+  const filteredFeatures =
+    sexoFilter === 'ALL'
+
+      ? encuestasGeojson.features
+
+      : encuestasGeojson.features.filter(
+          feature =>
+            feature.properties.sexo === sexoFilter
+        );
 
   document.getElementById('total-encuestas').textContent =
-    data.features.length;
+    filteredFeatures.length;
+
+  const filteredGeojson = {
+
+    type: 'FeatureCollection',
+
+    features: filteredFeatures
+
+  };
 
   const markers = L.markerClusterGroup();
 
-  encuestasLayer = L.geoJSON(data, {
+  const geoJsonLayer = L.geoJSON(filteredGeojson, {
 
     pointToLayer: (feature, latlng) => {
 
@@ -210,9 +231,26 @@ async function cargarEncuestas() {
 
   });
 
-  markers.addLayer(encuestasLayer);
+  markers.addLayer(geoJsonLayer);
 
   encuestasLayer = markers;
+
+  encuestasLayer.addTo(map);
+
+  seccionesNaucalpanLayer.bringToFront();  
+
+}
+
+
+async function cargarEncuestas() {
+
+  const response = await fetch(CONFIG.dataUrl);
+
+  const data = await response.json();
+
+  encuestasGeojson = data;
+
+  renderEncuestas();
 
 }
 
@@ -222,13 +260,13 @@ async function inicializarMapa() {
 
     await cargarMunicipios();
 
-    await cargarEncuestas();
-
     await cargarSeccionesNaucalpan();
+
+    await cargarEncuestas();
 
     municipiosLayer.addTo(map);
 
-    encuestasLayer.addTo(map);
+    // encuestasLayer.addTo(map);
 
     seccionesNaucalpanLayer.addTo(map);
 
@@ -258,10 +296,20 @@ async function inicializarMapa() {
 
 function contarEncuestasPorSeccion(seccion) {
 
-  return encuestasGeoJson.features.filter(
+  return encuestasGeojson.features.filter(
     feature => feature.properties.seccion == seccion
   ).length;
 
 }
+
+document
+  .getElementById('sexo-filter')
+  .addEventListener('change', (event) => {
+
+    sexoFilter = event.target.value;
+
+    renderEncuestas();
+
+  });
 
 inicializarMapa();
