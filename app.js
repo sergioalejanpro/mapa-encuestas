@@ -13,6 +13,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let municipiosLayer;
 let seccionesNaucalpanLayer;
 let encuestasLayer;
+let heatmapLayer;
 let encuestasGeojson;
 let sexoFilter = 'ALL';
 
@@ -239,7 +240,7 @@ function renderEncuestas() {
         Hora: ${props.hora}
       `);
 
-    }
+    },
 
   });
 
@@ -251,8 +252,58 @@ function renderEncuestas() {
 
   seccionesNaucalpanLayer.bringToFront();  
 
+  renderHeatmap();
 }
 
+
+function renderHeatmap() {
+
+  if (heatmapLayer) {
+
+    map.removeLayer(heatmapLayer);
+
+  }
+
+  const filteredFeatures =
+    sexoFilter === 'ALL'
+
+      ? encuestasGeojson.features
+
+      : encuestasGeojson.features.filter(
+          feature =>
+            feature.properties.sexo === sexoFilter
+        );
+
+  const heatPoints = filteredFeatures.map(feature => {
+
+    const coordinates =
+      feature.geometry.coordinates;
+
+    return [
+
+      coordinates[1],
+      coordinates[0],
+      1
+
+    ];
+
+  });
+
+  heatmapLayer = L.heatLayer(heatPoints, {
+
+    radius: 25,
+    blur: 18,
+    maxZoom: 17,
+    gradient: {
+      0.2: '#4a90e2',
+      0.4: '#5c6bc0',
+      0.6: '#9c27b0',
+      0.8: '#e91e63',
+      1.0: '#ff1744'
+    },
+  });
+
+}
 
 async function cargarEncuestas() {
 
@@ -289,7 +340,8 @@ async function inicializarMapa() {
       {
         'Municipios': municipiosLayer,
         'Encuestas': encuestasLayer,
-        'Secciones': seccionesNaucalpanLayer
+        'Secciones': seccionesNaucalpanLayer,
+        'Heatmap': heatmapLayer        
       },
 
       {
