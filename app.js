@@ -140,12 +140,19 @@ async function cargarSeccionesNaucalpan() {
 
         seccionesNaucalpanLayer.resetStyle(event.target);
 
-        document.getElementById('seccion-info').innerHTML =
-          'Sin sección seleccionada';
-
       },
 
       click: (event) => {
+
+        const seccion = feature.properties.seccion;
+
+        const totalEncuestas =
+          contarEncuestasPorSeccion(seccion);
+
+        document.getElementById('seccion-info').innerHTML = `
+          <b>Sección:</b> ${seccion}<br>
+          <b>Encuestas:</b> ${totalEncuestas}
+        `;
 
         map.fitBounds(event.target.getBounds(), {
 
@@ -153,7 +160,7 @@ async function cargarSeccionesNaucalpan() {
 
         });
 
-      }      
+      }     
 
     });
 
