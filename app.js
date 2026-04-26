@@ -90,16 +90,46 @@ async function cargarSeccionesNaucalpan() {
 
     },
 
-    onEachFeature: (feature, layer) => {
+  onEachFeature: (feature, layer) => {
 
-      const props = feature.properties;
+    layer.bindTooltip(
 
-      layer.bindPopup(`
-        <b>Sección</b><br>
-        ${props.nombre}
-      `);
+      `Sección ${feature.properties.seccion}`,
 
-    }
+      {
+        sticky: true,
+        direction: 'top'
+      }
+
+    );    
+
+    layer.on({
+
+      mouseover: (event) => {
+
+        const targetLayer = event.target;
+
+        targetLayer.setStyle({
+
+          weight: 3,
+          color: '#ff9800',
+          fillOpacity: 0.25
+
+        });
+
+        targetLayer.bringToFront();
+
+      },
+
+      mouseout: (event) => {
+
+        seccionesNaucalpanLayer.resetStyle(event.target);
+
+      }
+
+    });
+
+  }
 
   });
 
