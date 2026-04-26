@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 34,
+        "sexo": "M",
+        "fecha": "2026-04-20",
+        "hora": "10:15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2395, 19.4752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 29,
+        "sexo": "F",
+        "fecha": "2026-04-20",
+        "hora": "11:02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2318, 19.4824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 41,
+        "sexo": "M",
+        "fecha": "2026-04-21",
+        "hora": "09:48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2451, 19.4697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 22,
+        "sexo": "F",
+        "fecha": "2026-04-21",
+        "hora": "13:11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2276, 19.4785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 38,
+        "sexo": "M",
+        "fecha": "2026-04-22",
+        "hora": "15:26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2369, 19.4863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 31,
+        "sexo": "F",
+        "fecha": "2026-04-22",
+        "hora": "16:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2428, 19.4731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 45,
+        "sexo": "M",
+        "fecha": "2026-04-23",
+        "hora": "08:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2332, 19.4678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 27,
+        "sexo": "F",
+        "fecha": "2026-04-23",
+        "hora": "12:33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2484, 19.4802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 36,
+        "sexo": "M",
+        "fecha": "2026-04-24",
+        "hora": "14:17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2294, 19.4715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "edad": 24,
+        "sexo": "F",
+        "fecha": "2026-04-24",
+        "hora": "17:05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2407, 19.4841]
+      }
+    }
+  ]
+}

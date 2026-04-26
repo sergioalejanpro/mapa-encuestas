@@ -1,15 +1,75 @@
-const map = L.map('map').setView([19.47894, -99.23356], 14);
+const map = L.map('map').setView([19.4752, -99.2395], 13);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-const marker = L.marker([19.47894, -99.23356]).addTo(map);
+async function cargarEncuestas() {
+  try {
+    const response = await fetch('./data/encuestas.geojson');
 
-marker.bindPopup(`
-  <b>Encuesta</b><br>
-  Edad: 34<br>
-  Sexo: M<br>
-  Fecha: 2026-04-26<br>
-  Hora: 14:30
-`);
+    if (!response.ok) {
+      throw new Error('No se pudo cargar el archivo GeoJSON');
+    }
+
+    const data = await response.json();
+
+    const markers = L.markerClusterGroup();
+
+    const capaEncuestas = L.geoJSON(data, {
+
+      pointToLayer: (feature, latlng) => {
+
+        const color =
+          feature.properties.sexo === 'F'
+            ? '#e91e63'
+            : '#2196f3';
+
+        return L.marker(latlng, {
+          icon: L.divIcon({
+            className: 'custom-marker',
+            html: `
+              <div style="
+                width:16px;
+                height:16px;
+                border-radius:50%;
+                background:${color};
+                border:2px solid white;
+              "></div>
+            `,
+            iconSize: [16, 16],
+            iconAnchor: [8, 8]
+          })
+        });
+      },
+
+      onEachFeature: (feature, layer) => {
+
+        const props = feature.properties;
+
+        const popup = `
+          <div>
+            <b>Encuesta</b><br>
+            Edad: ${props.edad}<br>
+            Sexo: ${props.sexo}<br>
+            Fecha: ${props.fecha}<br>
+            Hora: ${props.hora}
+          </div>
+        `;
+
+        layer.bindPopup(popup);
+      }
+    });
+
+    markers.addLayer(capaEncuestas);
+
+    map.addLayer(markers);
+
+    map.fitBounds(capaEncuestas.getBounds());
+
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+cargarEncuestas();
