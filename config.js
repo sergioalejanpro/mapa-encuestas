@@ -10,5 +10,6 @@ const CONFIG = {
     female: '#e91e63'
   },
 
-  dataUrl: './data/encuestas.geojson'
+  dataUrl: './data/encuestas.geojson',
+  municipiosUrl: './data/municipios-edomex.geojson'
 };
