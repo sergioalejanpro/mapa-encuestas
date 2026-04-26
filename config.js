@@ -11,5 +11,6 @@ const CONFIG = {
   },
 
   dataUrl: './data/naucalpan.geojson',
-  municipiosUrl: './data/municipios-edomex.geojson'
+  municipiosUrl: './data/municipios-edomex.geojson',
+  seccionesNaucalpanUrl: './data/secciones-naucalpan.geojson'
 };

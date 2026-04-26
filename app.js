@@ -11,6 +11,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 let municipiosLayer;
+let seccionesNaucalpanLayer;
 let encuestasLayer;
 
 async function cargarMunicipios() {
@@ -65,6 +66,45 @@ async function cargarMunicipios() {
   });
 
 }
+
+async function cargarSeccionesNaucalpan() {
+
+  const response = await fetch(CONFIG.seccionesNaucalpanUrl);
+
+  const data = await response.json();
+
+  seccionesNaucalpanLayer = L.geoJSON(data, {
+
+    style: (feature) => {
+
+      return {
+
+        color: '#ff6b6b',
+        weight: 2,
+        opacity: 1,
+
+        fillColor: '#ff6b6b',
+        fillOpacity: 0.1
+
+      };
+
+    },
+
+    onEachFeature: (feature, layer) => {
+
+      const props = feature.properties;
+
+      layer.bindPopup(`
+        <b>Sección</b><br>
+        ${props.nombre}
+      `);
+
+    }
+
+  });
+
+}
+
 
 async function cargarEncuestas() {
 
@@ -141,9 +181,13 @@ async function inicializarMapa() {
 
     await cargarEncuestas();
 
+    await cargarSeccionesNaucalpan();
+
     municipiosLayer.addTo(map);
 
     encuestasLayer.addTo(map);
+
+    seccionesNaucalpanLayer.addTo(map);
 
     L.control.layers(
 
@@ -151,7 +195,8 @@ async function inicializarMapa() {
 
       {
         'Municipios': municipiosLayer,
-        'Encuestas': encuestasLayer
+        'Encuestas': encuestasLayer,
+        'Secciones': seccionesNaucalpanLayer
       },
 
       {
