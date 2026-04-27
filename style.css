@@ -363,4 +363,16 @@ body {
 
 }
 
+.leaflet-popup-content-wrapper {
 
+  background: rgba(255, 255, 255, 0.78);
+
+  backdrop-filter: blur(4px);
+
+}
+
+.leaflet-popup-tip {
+
+  background: rgba(255, 255, 255, 0.78);
+
+}

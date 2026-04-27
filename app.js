@@ -216,9 +216,12 @@ function renderEncuestas() {
       const props = feature.properties;
 
       layer.bindPopup(`
-        <b>${props.folio_encuesta}</b><br>
-        Edad: ${props.edad}<br>
-        Sexo: ${props.sexo}<br>
+        <b>A quién prefiere ?</b><BR>
+        Isaac: ${props.Isaac}%<br>
+        Iliana: ${props.Iliana}%<br>
+        Karina: ${props.Karina}%<br>
+        <hr>
+        ${props.folio_encuesta}<br>
         Fecha: ${props.fecha}<br>
         Hora: ${props.hora}
       `);

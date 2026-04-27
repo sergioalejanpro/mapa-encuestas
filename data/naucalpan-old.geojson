@@ -10,10 +10,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "14:17",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "14:17"
       },
       "geometry": {
         "type": "Point",
@@ -32,10 +29,7 @@
         "edad": 63,
         "sexo": "M",
         "fecha": "2026-04-11",
-        "hora": "10:57",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "10:57"
       },
       "geometry": {
         "type": "Point",
@@ -54,10 +48,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "18:37",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "18:37"
       },
       "geometry": {
         "type": "Point",
@@ -76,10 +67,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "11:02",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "11:02"
       },
       "geometry": {
         "type": "Point",
@@ -98,10 +86,7 @@
         "edad": 47,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "19:11",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "19:11"
       },
       "geometry": {
         "type": "Point",
@@ -120,10 +105,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "10:33",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "10:33"
       },
       "geometry": {
         "type": "Point",
@@ -142,10 +124,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "10:27",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "10:27"
       },
       "geometry": {
         "type": "Point",
@@ -164,10 +143,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-26",
-        "hora": "09:49",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "09:49"
       },
       "geometry": {
         "type": "Point",
@@ -186,10 +162,7 @@
         "edad": 68,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "14:52",
-        "Isaac": 50,
-        "Iliana": 28,
-        "Karina": 22
+        "hora": "14:52"
       },
       "geometry": {
         "type": "Point",
@@ -208,10 +181,7 @@
         "edad": 33,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "10:00",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "10:00"
       },
       "geometry": {
         "type": "Point",
@@ -230,10 +200,7 @@
         "edad": 75,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "20:28",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "20:28"
       },
       "geometry": {
         "type": "Point",
@@ -252,10 +219,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "11:46",
-        "Isaac": 52,
-        "Iliana": 23,
-        "Karina": 25
+        "hora": "11:46"
       },
       "geometry": {
         "type": "Point",
@@ -274,10 +238,7 @@
         "edad": 35,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "15:29",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "15:29"
       },
       "geometry": {
         "type": "Point",
@@ -296,10 +257,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "09:18",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "09:18"
       },
       "geometry": {
         "type": "Point",
@@ -318,10 +276,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "13:00",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "13:00"
       },
       "geometry": {
         "type": "Point",
@@ -340,10 +295,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "19:22",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "19:22"
       },
       "geometry": {
         "type": "Point",
@@ -362,10 +314,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "19:40",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "19:40"
       },
       "geometry": {
         "type": "Point",
@@ -384,10 +333,7 @@
         "edad": 51,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "15:16",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "15:16"
       },
       "geometry": {
         "type": "Point",
@@ -406,10 +352,7 @@
         "edad": 43,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "17:42",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "17:42"
       },
       "geometry": {
         "type": "Point",
@@ -428,10 +371,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "17:27",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "17:27"
       },
       "geometry": {
         "type": "Point",
@@ -450,10 +390,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "10:49",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "10:49"
       },
       "geometry": {
         "type": "Point",
@@ -472,10 +409,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "12:33",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "12:33"
       },
       "geometry": {
         "type": "Point",
@@ -494,10 +428,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "16:00",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "16:00"
       },
       "geometry": {
         "type": "Point",
@@ -516,10 +447,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "14:21",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "14:21"
       },
       "geometry": {
         "type": "Point",
@@ -538,10 +466,7 @@
         "edad": 53,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "11:19",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "11:19"
       },
       "geometry": {
         "type": "Point",
@@ -560,10 +485,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "17:53",
-        "Isaac": 51,
-        "Iliana": 25,
-        "Karina": 24
+        "hora": "17:53"
       },
       "geometry": {
         "type": "Point",
@@ -582,10 +504,7 @@
         "edad": 33,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "12:22",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "12:22"
       },
       "geometry": {
         "type": "Point",
@@ -604,10 +523,7 @@
         "edad": 63,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "11:31",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "11:31"
       },
       "geometry": {
         "type": "Point",
@@ -626,10 +542,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "17:19",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "17:19"
       },
       "geometry": {
         "type": "Point",
@@ -648,10 +561,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "12:17",
-        "Isaac": 57,
-        "Iliana": 23,
-        "Karina": 20
+        "hora": "12:17"
       },
       "geometry": {
         "type": "Point",
@@ -670,10 +580,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "09:49",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "09:49"
       },
       "geometry": {
         "type": "Point",
@@ -692,10 +599,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "18:35",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "18:35"
       },
       "geometry": {
         "type": "Point",
@@ -714,10 +618,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "18:35",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "18:35"
       },
       "geometry": {
         "type": "Point",
@@ -736,10 +637,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "10:55",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "10:55"
       },
       "geometry": {
         "type": "Point",
@@ -758,10 +656,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "14:14",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "14:14"
       },
       "geometry": {
         "type": "Point",
@@ -780,10 +675,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "20:00",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "20:00"
       },
       "geometry": {
         "type": "Point",
@@ -802,10 +694,7 @@
         "edad": 22,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "12:07",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "12:07"
       },
       "geometry": {
         "type": "Point",
@@ -824,10 +713,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "14:06",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "14:06"
       },
       "geometry": {
         "type": "Point",
@@ -846,10 +732,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "18:29",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "18:29"
       },
       "geometry": {
         "type": "Point",
@@ -868,10 +751,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "13:34",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "13:34"
       },
       "geometry": {
         "type": "Point",
@@ -890,10 +770,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "12:21",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "12:21"
       },
       "geometry": {
         "type": "Point",
@@ -912,10 +789,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "19:05",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "19:05"
       },
       "geometry": {
         "type": "Point",
@@ -934,10 +808,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "13:47",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "13:47"
       },
       "geometry": {
         "type": "Point",
@@ -956,10 +827,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "18:34",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "18:34"
       },
       "geometry": {
         "type": "Point",
@@ -978,10 +846,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "17:15",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "17:15"
       },
       "geometry": {
         "type": "Point",
@@ -1000,10 +865,7 @@
         "edad": 31,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "15:55",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "15:55"
       },
       "geometry": {
         "type": "Point",
@@ -1022,10 +884,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "08:37",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "08:37"
       },
       "geometry": {
         "type": "Point",
@@ -1044,10 +903,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "16:47",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "16:47"
       },
       "geometry": {
         "type": "Point",
@@ -1066,10 +922,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "17:54",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "17:54"
       },
       "geometry": {
         "type": "Point",
@@ -1088,10 +941,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "18:15",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "18:15"
       },
       "geometry": {
         "type": "Point",
@@ -1110,10 +960,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "13:45",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "13:45"
       },
       "geometry": {
         "type": "Point",
@@ -1132,10 +979,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "14:06",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "14:06"
       },
       "geometry": {
         "type": "Point",
@@ -1154,10 +998,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "09:51",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "09:51"
       },
       "geometry": {
         "type": "Point",
@@ -1176,10 +1017,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "20:38",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "20:38"
       },
       "geometry": {
         "type": "Point",
@@ -1198,10 +1036,7 @@
         "edad": 40,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "13:43",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "13:43"
       },
       "geometry": {
         "type": "Point",
@@ -1220,10 +1055,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "19:33",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "19:33"
       },
       "geometry": {
         "type": "Point",
@@ -1242,10 +1074,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "16:35",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "16:35"
       },
       "geometry": {
         "type": "Point",
@@ -1264,10 +1093,7 @@
         "edad": 60,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "16:49",
-        "Isaac": 50,
-        "Iliana": 25,
-        "Karina": 25
+        "hora": "16:49"
       },
       "geometry": {
         "type": "Point",
@@ -1286,10 +1112,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "16:16",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "16:16"
       },
       "geometry": {
         "type": "Point",
@@ -1308,10 +1131,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "08:31",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "08:31"
       },
       "geometry": {
         "type": "Point",
@@ -1330,10 +1150,7 @@
         "edad": 70,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "17:01",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "17:01"
       },
       "geometry": {
         "type": "Point",
@@ -1352,10 +1169,7 @@
         "edad": 50,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "14:51",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "14:51"
       },
       "geometry": {
         "type": "Point",
@@ -1374,10 +1188,7 @@
         "edad": 47,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "08:08",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "08:08"
       },
       "geometry": {
         "type": "Point",
@@ -1396,10 +1207,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "14:35",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "14:35"
       },
       "geometry": {
         "type": "Point",
@@ -1418,10 +1226,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "14:34",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "14:34"
       },
       "geometry": {
         "type": "Point",
@@ -1440,10 +1245,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "17:21",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "17:21"
       },
       "geometry": {
         "type": "Point",
@@ -1462,10 +1264,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "20:55",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "20:55"
       },
       "geometry": {
         "type": "Point",
@@ -1484,10 +1283,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "11:42",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "11:42"
       },
       "geometry": {
         "type": "Point",
@@ -1506,10 +1302,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "19:49",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "19:49"
       },
       "geometry": {
         "type": "Point",
@@ -1528,10 +1321,7 @@
         "edad": 52,
         "sexo": "M",
         "fecha": "2026-04-11",
-        "hora": "16:22",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "16:22"
       },
       "geometry": {
         "type": "Point",
@@ -1550,10 +1340,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "10:44",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "10:44"
       },
       "geometry": {
         "type": "Point",
@@ -1572,10 +1359,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "08:18",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "08:18"
       },
       "geometry": {
         "type": "Point",
@@ -1594,10 +1378,7 @@
         "edad": 66,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "14:12",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "14:12"
       },
       "geometry": {
         "type": "Point",
@@ -1616,10 +1397,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "20:34",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "20:34"
       },
       "geometry": {
         "type": "Point",
@@ -1638,10 +1416,7 @@
         "edad": 63,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "13:16",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "13:16"
       },
       "geometry": {
         "type": "Point",
@@ -1660,10 +1435,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "12:57",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "12:57"
       },
       "geometry": {
         "type": "Point",
@@ -1682,10 +1454,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "19:06",
-        "Isaac": 50,
-        "Iliana": 28,
-        "Karina": 22
+        "hora": "19:06"
       },
       "geometry": {
         "type": "Point",
@@ -1704,10 +1473,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "19:47",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "19:47"
       },
       "geometry": {
         "type": "Point",
@@ -1726,10 +1492,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "09:47",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "09:47"
       },
       "geometry": {
         "type": "Point",
@@ -1748,10 +1511,7 @@
         "edad": 40,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "20:06",
-        "Isaac": 50,
-        "Iliana": 30,
-        "Karina": 20
+        "hora": "20:06"
       },
       "geometry": {
         "type": "Point",
@@ -1770,10 +1530,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "19:47",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "19:47"
       },
       "geometry": {
         "type": "Point",
@@ -1792,10 +1549,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "15:25",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "15:25"
       },
       "geometry": {
         "type": "Point",
@@ -1814,10 +1568,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "17:05",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "17:05"
       },
       "geometry": {
         "type": "Point",
@@ -1836,10 +1587,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "11:24",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "11:24"
       },
       "geometry": {
         "type": "Point",
@@ -1858,10 +1606,7 @@
         "edad": 50,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "13:16",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "13:16"
       },
       "geometry": {
         "type": "Point",
@@ -1880,10 +1625,7 @@
         "edad": 47,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "14:07",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "14:07"
       },
       "geometry": {
         "type": "Point",
@@ -1902,10 +1644,7 @@
         "edad": 44,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "17:55",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "17:55"
       },
       "geometry": {
         "type": "Point",
@@ -1924,10 +1663,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "15:43",
-        "Isaac": 50,
-        "Iliana": 25,
-        "Karina": 25
+        "hora": "15:43"
       },
       "geometry": {
         "type": "Point",
@@ -1946,10 +1682,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "11:35",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "11:35"
       },
       "geometry": {
         "type": "Point",
@@ -1968,10 +1701,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "13:19",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "13:19"
       },
       "geometry": {
         "type": "Point",
@@ -1990,10 +1720,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "11:28",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "11:28"
       },
       "geometry": {
         "type": "Point",
@@ -2012,10 +1739,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "08:30",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "08:30"
       },
       "geometry": {
         "type": "Point",
@@ -2034,10 +1758,7 @@
         "edad": 65,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "09:26",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "09:26"
       },
       "geometry": {
         "type": "Point",
@@ -2056,10 +1777,7 @@
         "edad": 46,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "09:03",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "09:03"
       },
       "geometry": {
         "type": "Point",
@@ -2078,10 +1796,7 @@
         "edad": 68,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "08:47",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "08:47"
       },
       "geometry": {
         "type": "Point",
@@ -2100,10 +1815,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "10:29",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "10:29"
       },
       "geometry": {
         "type": "Point",
@@ -2122,10 +1834,7 @@
         "edad": 43,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "09:08",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "09:08"
       },
       "geometry": {
         "type": "Point",
@@ -2144,10 +1853,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "16:11",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "16:11"
       },
       "geometry": {
         "type": "Point",
@@ -2166,10 +1872,7 @@
         "edad": 52,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "17:20",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "17:20"
       },
       "geometry": {
         "type": "Point",
@@ -2188,10 +1891,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "11:15",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "11:15"
       },
       "geometry": {
         "type": "Point",
@@ -2210,10 +1910,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "13:24",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "13:24"
       },
       "geometry": {
         "type": "Point",
@@ -2232,10 +1929,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "10:31",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "10:31"
       },
       "geometry": {
         "type": "Point",
@@ -2254,10 +1948,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "14:19",
-        "Isaac": 57,
-        "Iliana": 23,
-        "Karina": 20
+        "hora": "14:19"
       },
       "geometry": {
         "type": "Point",
@@ -2276,10 +1967,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "09:28",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "09:28"
       },
       "geometry": {
         "type": "Point",
@@ -2298,10 +1986,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "17:30",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "17:30"
       },
       "geometry": {
         "type": "Point",
@@ -2320,10 +2005,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "18:04",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "18:04"
       },
       "geometry": {
         "type": "Point",
@@ -2342,10 +2024,7 @@
         "edad": 71,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "16:07",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "16:07"
       },
       "geometry": {
         "type": "Point",
@@ -2364,10 +2043,7 @@
         "edad": 29,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "19:59",
-        "Isaac": 53,
-        "Iliana": 24,
-        "Karina": 23
+        "hora": "19:59"
       },
       "geometry": {
         "type": "Point",
@@ -2386,10 +2062,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "12:55",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "12:55"
       },
       "geometry": {
         "type": "Point",
@@ -2408,10 +2081,7 @@
         "edad": 51,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "15:50",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "15:50"
       },
       "geometry": {
         "type": "Point",
@@ -2430,10 +2100,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "13:43",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "13:43"
       },
       "geometry": {
         "type": "Point",
@@ -2452,10 +2119,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "10:40",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "10:40"
       },
       "geometry": {
         "type": "Point",
@@ -2474,10 +2138,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "15:51",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "15:51"
       },
       "geometry": {
         "type": "Point",
@@ -2496,10 +2157,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "17:00",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "17:00"
       },
       "geometry": {
         "type": "Point",
@@ -2518,10 +2176,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "12:45",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "12:45"
       },
       "geometry": {
         "type": "Point",
@@ -2540,10 +2195,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "11:14",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "11:14"
       },
       "geometry": {
         "type": "Point",
@@ -2562,10 +2214,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "16:41",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "16:41"
       },
       "geometry": {
         "type": "Point",
@@ -2584,10 +2233,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "17:52",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "17:52"
       },
       "geometry": {
         "type": "Point",
@@ -2606,10 +2252,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "09:52",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "09:52"
       },
       "geometry": {
         "type": "Point",
@@ -2628,10 +2271,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "10:33",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "10:33"
       },
       "geometry": {
         "type": "Point",
@@ -2650,10 +2290,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "11:46",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "11:46"
       },
       "geometry": {
         "type": "Point",
@@ -2672,10 +2309,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "10:09",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "10:09"
       },
       "geometry": {
         "type": "Point",
@@ -2694,10 +2328,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "10:57",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "10:57"
       },
       "geometry": {
         "type": "Point",
@@ -2716,10 +2347,7 @@
         "edad": 71,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "13:20",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "13:20"
       },
       "geometry": {
         "type": "Point",
@@ -2738,10 +2366,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "13:56",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "13:56"
       },
       "geometry": {
         "type": "Point",
@@ -2760,10 +2385,7 @@
         "edad": 25,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "08:26",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "08:26"
       },
       "geometry": {
         "type": "Point",
@@ -2782,10 +2404,7 @@
         "edad": 23,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "12:51",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "12:51"
       },
       "geometry": {
         "type": "Point",
@@ -2804,10 +2423,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "10:23",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "10:23"
       },
       "geometry": {
         "type": "Point",
@@ -2826,10 +2442,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "12:35",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "12:35"
       },
       "geometry": {
         "type": "Point",
@@ -2848,10 +2461,7 @@
         "edad": 61,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "15:52",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "15:52"
       },
       "geometry": {
         "type": "Point",
@@ -2870,10 +2480,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "20:53",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "20:53"
       },
       "geometry": {
         "type": "Point",
@@ -2892,10 +2499,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "14:27",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "14:27"
       },
       "geometry": {
         "type": "Point",
@@ -2914,10 +2518,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "17:34",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "17:34"
       },
       "geometry": {
         "type": "Point",
@@ -2936,10 +2537,7 @@
         "edad": 23,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "16:06",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "16:06"
       },
       "geometry": {
         "type": "Point",
@@ -2958,10 +2556,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "14:54",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "14:54"
       },
       "geometry": {
         "type": "Point",
@@ -2980,10 +2575,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "11:20",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "11:20"
       },
       "geometry": {
         "type": "Point",
@@ -3002,10 +2594,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "20:45",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "20:45"
       },
       "geometry": {
         "type": "Point",
@@ -3024,10 +2613,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "13:59",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "13:59"
       },
       "geometry": {
         "type": "Point",
@@ -3046,10 +2632,7 @@
         "edad": 55,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "08:29",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "08:29"
       },
       "geometry": {
         "type": "Point",
@@ -3068,10 +2651,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "09:31",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "09:31"
       },
       "geometry": {
         "type": "Point",
@@ -3090,10 +2670,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "19:47",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "19:47"
       },
       "geometry": {
         "type": "Point",
@@ -3112,10 +2689,7 @@
         "edad": 65,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "19:25",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "19:25"
       },
       "geometry": {
         "type": "Point",
@@ -3134,10 +2708,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "11:17",
-        "Isaac": 50,
-        "Iliana": 28,
-        "Karina": 22
+        "hora": "11:17"
       },
       "geometry": {
         "type": "Point",
@@ -3156,10 +2727,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "09:22",
-        "Isaac": 51,
-        "Iliana": 25,
-        "Karina": 24
+        "hora": "09:22"
       },
       "geometry": {
         "type": "Point",
@@ -3178,10 +2746,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "12:40",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "12:40"
       },
       "geometry": {
         "type": "Point",
@@ -3200,10 +2765,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "11:52",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "11:52"
       },
       "geometry": {
         "type": "Point",
@@ -3222,10 +2784,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "20:30",
-        "Isaac": 50,
-        "Iliana": 30,
-        "Karina": 20
+        "hora": "20:30"
       },
       "geometry": {
         "type": "Point",
@@ -3244,10 +2803,7 @@
         "edad": 37,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "19:52",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "19:52"
       },
       "geometry": {
         "type": "Point",
@@ -3266,10 +2822,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "10:00",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "10:00"
       },
       "geometry": {
         "type": "Point",
@@ -3288,10 +2841,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "09:04",
-        "Isaac": 53,
-        "Iliana": 24,
-        "Karina": 23
+        "hora": "09:04"
       },
       "geometry": {
         "type": "Point",
@@ -3310,10 +2860,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "16:24",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "16:24"
       },
       "geometry": {
         "type": "Point",
@@ -3332,10 +2879,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "18:20",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "18:20"
       },
       "geometry": {
         "type": "Point",
@@ -3354,10 +2898,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "10:24",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "10:24"
       },
       "geometry": {
         "type": "Point",
@@ -3376,10 +2917,7 @@
         "edad": 34,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "12:40",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "12:40"
       },
       "geometry": {
         "type": "Point",
@@ -3398,10 +2936,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "17:40",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "17:40"
       },
       "geometry": {
         "type": "Point",
@@ -3420,10 +2955,7 @@
         "edad": 51,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "17:29",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "17:29"
       },
       "geometry": {
         "type": "Point",
@@ -3442,10 +2974,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "17:34",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "17:34"
       },
       "geometry": {
         "type": "Point",
@@ -3464,10 +2993,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "10:54",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "10:54"
       },
       "geometry": {
         "type": "Point",
@@ -3486,10 +3012,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "20:29",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "20:29"
       },
       "geometry": {
         "type": "Point",
@@ -3508,10 +3031,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "17:38",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "17:38"
       },
       "geometry": {
         "type": "Point",
@@ -3530,10 +3050,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "12:18",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "12:18"
       },
       "geometry": {
         "type": "Point",
@@ -3552,10 +3069,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "19:32",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "19:32"
       },
       "geometry": {
         "type": "Point",
@@ -3574,10 +3088,7 @@
         "edad": 75,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "17:11",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "17:11"
       },
       "geometry": {
         "type": "Point",
@@ -3596,10 +3107,7 @@
         "edad": 35,
         "sexo": "M",
         "fecha": "2026-04-26",
-        "hora": "12:36",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "12:36"
       },
       "geometry": {
         "type": "Point",
@@ -3618,10 +3126,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "12:45",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "12:45"
       },
       "geometry": {
         "type": "Point",
@@ -3640,10 +3145,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "19:52",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "19:52"
       },
       "geometry": {
         "type": "Point",
@@ -3662,10 +3164,7 @@
         "edad": 31,
         "sexo": "M",
         "fecha": "2026-04-11",
-        "hora": "10:22",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "10:22"
       },
       "geometry": {
         "type": "Point",
@@ -3684,10 +3183,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "09:37",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "09:37"
       },
       "geometry": {
         "type": "Point",
@@ -3706,10 +3202,7 @@
         "edad": 68,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "09:59",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "09:59"
       },
       "geometry": {
         "type": "Point",
@@ -3728,10 +3221,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "12:26",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "12:26"
       },
       "geometry": {
         "type": "Point",
@@ -3750,10 +3240,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "11:35",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "11:35"
       },
       "geometry": {
         "type": "Point",
@@ -3772,10 +3259,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "18:16",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "18:16"
       },
       "geometry": {
         "type": "Point",
@@ -3794,10 +3278,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "09:42",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "09:42"
       },
       "geometry": {
         "type": "Point",
@@ -3816,10 +3297,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "09:13",
-        "Isaac": 58,
-        "Iliana": 29,
-        "Karina": 13
+        "hora": "09:13"
       },
       "geometry": {
         "type": "Point",
@@ -3838,10 +3316,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "16:06",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "16:06"
       },
       "geometry": {
         "type": "Point",
@@ -3860,10 +3335,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "14:40",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "14:40"
       },
       "geometry": {
         "type": "Point",
@@ -3882,10 +3354,7 @@
         "edad": 31,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "11:11",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "11:11"
       },
       "geometry": {
         "type": "Point",
@@ -3904,10 +3373,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "16:47",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "16:47"
       },
       "geometry": {
         "type": "Point",
@@ -3926,10 +3392,7 @@
         "edad": 43,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "20:28",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "20:28"
       },
       "geometry": {
         "type": "Point",
@@ -3948,10 +3411,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "17:11",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "17:11"
       },
       "geometry": {
         "type": "Point",
@@ -3970,10 +3430,7 @@
         "edad": 29,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "19:03",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "19:03"
       },
       "geometry": {
         "type": "Point",
@@ -3992,10 +3449,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "14:55",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "14:55"
       },
       "geometry": {
         "type": "Point",
@@ -4014,10 +3468,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "18:19",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "18:19"
       },
       "geometry": {
         "type": "Point",
@@ -4036,10 +3487,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "08:49",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "08:49"
       },
       "geometry": {
         "type": "Point",
@@ -4058,10 +3506,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "19:20",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "19:20"
       },
       "geometry": {
         "type": "Point",
@@ -4080,10 +3525,7 @@
         "edad": 65,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "17:43",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "17:43"
       },
       "geometry": {
         "type": "Point",
@@ -4102,10 +3544,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "11:57",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "11:57"
       },
       "geometry": {
         "type": "Point",
@@ -4124,10 +3563,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "10:46",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "10:46"
       },
       "geometry": {
         "type": "Point",
@@ -4146,10 +3582,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "11:21",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "11:21"
       },
       "geometry": {
         "type": "Point",
@@ -4168,10 +3601,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "19:17",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "19:17"
       },
       "geometry": {
         "type": "Point",
@@ -4190,10 +3620,7 @@
         "edad": 75,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "08:21",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "08:21"
       },
       "geometry": {
         "type": "Point",
@@ -4212,10 +3639,7 @@
         "edad": 60,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "19:51",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "19:51"
       },
       "geometry": {
         "type": "Point",
@@ -4234,10 +3658,7 @@
         "edad": 25,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "18:08",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "18:08"
       },
       "geometry": {
         "type": "Point",
@@ -4256,10 +3677,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "15:33",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "15:33"
       },
       "geometry": {
         "type": "Point",
@@ -4278,10 +3696,7 @@
         "edad": 69,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "08:49",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "08:49"
       },
       "geometry": {
         "type": "Point",
@@ -4300,10 +3715,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "16:02",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "16:02"
       },
       "geometry": {
         "type": "Point",
@@ -4322,10 +3734,7 @@
         "edad": 33,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "11:57",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "11:57"
       },
       "geometry": {
         "type": "Point",
@@ -4344,10 +3753,7 @@
         "edad": 23,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "19:06",
-        "Isaac": 50,
-        "Iliana": 29,
-        "Karina": 21
+        "hora": "19:06"
       },
       "geometry": {
         "type": "Point",
@@ -4366,10 +3772,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "12:04",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "12:04"
       },
       "geometry": {
         "type": "Point",
@@ -4388,10 +3791,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "18:20",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "18:20"
       },
       "geometry": {
         "type": "Point",
@@ -4410,10 +3810,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "12:29",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "12:29"
       },
       "geometry": {
         "type": "Point",
@@ -4432,10 +3829,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "12:27",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "12:27"
       },
       "geometry": {
         "type": "Point",
@@ -4454,10 +3848,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-22",
-        "hora": "09:52",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "09:52"
       },
       "geometry": {
         "type": "Point",
@@ -4476,10 +3867,7 @@
         "edad": 74,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "15:31",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "15:31"
       },
       "geometry": {
         "type": "Point",
@@ -4498,10 +3886,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "15:12",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "15:12"
       },
       "geometry": {
         "type": "Point",
@@ -4520,10 +3905,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "12:11",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "12:11"
       },
       "geometry": {
         "type": "Point",
@@ -4542,10 +3924,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "10:26",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "10:26"
       },
       "geometry": {
         "type": "Point",
@@ -4564,10 +3943,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "15:39",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "15:39"
       },
       "geometry": {
         "type": "Point",
@@ -4586,10 +3962,7 @@
         "edad": 43,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "09:13",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "09:13"
       },
       "geometry": {
         "type": "Point",
@@ -4608,10 +3981,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "11:13",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "11:13"
       },
       "geometry": {
         "type": "Point",
@@ -4630,10 +4000,7 @@
         "edad": 51,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "12:55",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "12:55"
       },
       "geometry": {
         "type": "Point",
@@ -4652,10 +4019,7 @@
         "edad": 46,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "15:36",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "15:36"
       },
       "geometry": {
         "type": "Point",
@@ -4674,10 +4038,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "13:46",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "13:46"
       },
       "geometry": {
         "type": "Point",
@@ -4696,10 +4057,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "10:10",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "10:10"
       },
       "geometry": {
         "type": "Point",
@@ -4718,10 +4076,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "15:23",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "15:23"
       },
       "geometry": {
         "type": "Point",
@@ -4740,10 +4095,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "14:24",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "14:24"
       },
       "geometry": {
         "type": "Point",
@@ -4762,10 +4114,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "13:18",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "13:18"
       },
       "geometry": {
         "type": "Point",
@@ -4784,10 +4133,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "10:44",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "10:44"
       },
       "geometry": {
         "type": "Point",
@@ -4806,10 +4152,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "10:33",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "10:33"
       },
       "geometry": {
         "type": "Point",
@@ -4828,10 +4171,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "20:43",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "20:43"
       },
       "geometry": {
         "type": "Point",
@@ -4850,10 +4190,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "19:29",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "19:29"
       },
       "geometry": {
         "type": "Point",
@@ -4872,10 +4209,7 @@
         "edad": 36,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "17:14",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "17:14"
       },
       "geometry": {
         "type": "Point",
@@ -4894,10 +4228,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "16:11",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "16:11"
       },
       "geometry": {
         "type": "Point",
@@ -4916,10 +4247,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-22",
-        "hora": "11:56",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "11:56"
       },
       "geometry": {
         "type": "Point",
@@ -4938,10 +4266,7 @@
         "edad": 49,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "18:21",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "18:21"
       },
       "geometry": {
         "type": "Point",
@@ -4960,10 +4285,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "17:57",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "17:57"
       },
       "geometry": {
         "type": "Point",
@@ -4982,10 +4304,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "15:40",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "15:40"
       },
       "geometry": {
         "type": "Point",
@@ -5004,10 +4323,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "09:24",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "09:24"
       },
       "geometry": {
         "type": "Point",
@@ -5026,10 +4342,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "10:25",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "10:25"
       },
       "geometry": {
         "type": "Point",
@@ -5048,10 +4361,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "18:12",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "18:12"
       },
       "geometry": {
         "type": "Point",
@@ -5070,10 +4380,7 @@
         "edad": 68,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "20:11",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "20:11"
       },
       "geometry": {
         "type": "Point",
@@ -5092,10 +4399,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "17:30",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "17:30"
       },
       "geometry": {
         "type": "Point",
@@ -5114,10 +4418,7 @@
         "edad": 69,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "08:42",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "08:42"
       },
       "geometry": {
         "type": "Point",
@@ -5136,10 +4437,7 @@
         "edad": 71,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "13:37",
-        "Isaac": 50,
-        "Iliana": 30,
-        "Karina": 20
+        "hora": "13:37"
       },
       "geometry": {
         "type": "Point",
@@ -5158,10 +4456,7 @@
         "edad": 19,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "13:57",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "13:57"
       },
       "geometry": {
         "type": "Point",
@@ -5180,10 +4475,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "11:44",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "11:44"
       },
       "geometry": {
         "type": "Point",
@@ -5202,10 +4494,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "09:20",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "09:20"
       },
       "geometry": {
         "type": "Point",
@@ -5224,10 +4513,7 @@
         "edad": 75,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "14:14",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "14:14"
       },
       "geometry": {
         "type": "Point",
@@ -5246,10 +4532,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "14:46",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "14:46"
       },
       "geometry": {
         "type": "Point",
@@ -5268,10 +4551,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "19:16",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "19:16"
       },
       "geometry": {
         "type": "Point",
@@ -5290,10 +4570,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "08:24",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "08:24"
       },
       "geometry": {
         "type": "Point",
@@ -5312,10 +4589,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "18:41",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "18:41"
       },
       "geometry": {
         "type": "Point",
@@ -5334,10 +4608,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "17:23",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "17:23"
       },
       "geometry": {
         "type": "Point",
@@ -5356,10 +4627,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "10:54",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "10:54"
       },
       "geometry": {
         "type": "Point",
@@ -5378,10 +4646,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "09:28",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "09:28"
       },
       "geometry": {
         "type": "Point",
@@ -5400,10 +4665,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "20:42",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "20:42"
       },
       "geometry": {
         "type": "Point",
@@ -5422,10 +4684,7 @@
         "edad": 55,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "19:43",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "19:43"
       },
       "geometry": {
         "type": "Point",
@@ -5444,10 +4703,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "17:28",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "17:28"
       },
       "geometry": {
         "type": "Point",
@@ -5466,10 +4722,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "10:53",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "10:53"
       },
       "geometry": {
         "type": "Point",
@@ -5488,10 +4741,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "17:04",
-        "Isaac": 58,
-        "Iliana": 29,
-        "Karina": 13
+        "hora": "17:04"
       },
       "geometry": {
         "type": "Point",
@@ -5510,10 +4760,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "19:45",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "19:45"
       },
       "geometry": {
         "type": "Point",
@@ -5532,10 +4779,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "09:08",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "09:08"
       },
       "geometry": {
         "type": "Point",
@@ -5554,10 +4798,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "10:47",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "10:47"
       },
       "geometry": {
         "type": "Point",
@@ -5576,10 +4817,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "15:36",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "15:36"
       },
       "geometry": {
         "type": "Point",
@@ -5598,10 +4836,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "09:46",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "09:46"
       },
       "geometry": {
         "type": "Point",
@@ -5620,10 +4855,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "08:40",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "08:40"
       },
       "geometry": {
         "type": "Point",
@@ -5642,10 +4874,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "17:14",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "17:14"
       },
       "geometry": {
         "type": "Point",
@@ -5664,10 +4893,7 @@
         "edad": 37,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "20:23",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "20:23"
       },
       "geometry": {
         "type": "Point",
@@ -5686,10 +4912,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "09:12",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "09:12"
       },
       "geometry": {
         "type": "Point",
@@ -5708,10 +4931,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "12:13",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "12:13"
       },
       "geometry": {
         "type": "Point",
@@ -5730,10 +4950,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "20:39",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "20:39"
       },
       "geometry": {
         "type": "Point",
@@ -5752,10 +4969,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "16:37",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "16:37"
       },
       "geometry": {
         "type": "Point",
@@ -5774,10 +4988,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "15:27",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "15:27"
       },
       "geometry": {
         "type": "Point",
@@ -5796,10 +5007,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "17:35",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "17:35"
       },
       "geometry": {
         "type": "Point",
@@ -5818,10 +5026,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "17:13",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "17:13"
       },
       "geometry": {
         "type": "Point",
@@ -5840,10 +5045,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "17:44",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "17:44"
       },
       "geometry": {
         "type": "Point",
@@ -5862,10 +5064,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "15:38",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "15:38"
       },
       "geometry": {
         "type": "Point",
@@ -5884,10 +5083,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "11:02",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "11:02"
       },
       "geometry": {
         "type": "Point",
@@ -5906,10 +5102,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "19:18",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "19:18"
       },
       "geometry": {
         "type": "Point",
@@ -5928,10 +5121,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "20:21",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "20:21"
       },
       "geometry": {
         "type": "Point",
@@ -5950,10 +5140,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "09:06",
-        "Isaac": 58,
-        "Iliana": 29,
-        "Karina": 13
+        "hora": "09:06"
       },
       "geometry": {
         "type": "Point",
@@ -5972,10 +5159,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-26",
-        "hora": "14:59",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "14:59"
       },
       "geometry": {
         "type": "Point",
@@ -5994,10 +5178,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "17:33",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "17:33"
       },
       "geometry": {
         "type": "Point",
@@ -6016,10 +5197,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "16:50",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "16:50"
       },
       "geometry": {
         "type": "Point",
@@ -6038,10 +5216,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "16:06",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "16:06"
       },
       "geometry": {
         "type": "Point",
@@ -6060,10 +5235,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "10:21",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "10:21"
       },
       "geometry": {
         "type": "Point",
@@ -6082,10 +5254,7 @@
         "edad": 74,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "10:01",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "10:01"
       },
       "geometry": {
         "type": "Point",
@@ -6104,10 +5273,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "20:37",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "20:37"
       },
       "geometry": {
         "type": "Point",
@@ -6126,10 +5292,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "20:14",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "20:14"
       },
       "geometry": {
         "type": "Point",
@@ -6148,10 +5311,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "09:29",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "09:29"
       },
       "geometry": {
         "type": "Point",
@@ -6170,10 +5330,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "12:42",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "12:42"
       },
       "geometry": {
         "type": "Point",
@@ -6192,10 +5349,7 @@
         "edad": 43,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "10:44",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "10:44"
       },
       "geometry": {
         "type": "Point",
@@ -6214,10 +5368,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "15:23",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "15:23"
       },
       "geometry": {
         "type": "Point",
@@ -6236,10 +5387,7 @@
         "edad": 21,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "15:11",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "15:11"
       },
       "geometry": {
         "type": "Point",
@@ -6258,10 +5406,7 @@
         "edad": 36,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "18:30",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "18:30"
       },
       "geometry": {
         "type": "Point",
@@ -6280,10 +5425,7 @@
         "edad": 61,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "19:22",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "19:22"
       },
       "geometry": {
         "type": "Point",
@@ -6302,10 +5444,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "17:46",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "17:46"
       },
       "geometry": {
         "type": "Point",
@@ -6324,10 +5463,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "13:17",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "13:17"
       },
       "geometry": {
         "type": "Point",
@@ -6346,10 +5482,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "12:07",
-        "Isaac": 52,
-        "Iliana": 23,
-        "Karina": 25
+        "hora": "12:07"
       },
       "geometry": {
         "type": "Point",
@@ -6368,10 +5501,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-11",
-        "hora": "20:31",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "20:31"
       },
       "geometry": {
         "type": "Point",
@@ -6390,10 +5520,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "20:21",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "20:21"
       },
       "geometry": {
         "type": "Point",
@@ -6412,10 +5539,7 @@
         "edad": 43,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "13:03",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "13:03"
       },
       "geometry": {
         "type": "Point",
@@ -6434,10 +5558,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "19:10",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "19:10"
       },
       "geometry": {
         "type": "Point",
@@ -6456,10 +5577,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "15:11",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "15:11"
       },
       "geometry": {
         "type": "Point",
@@ -6478,10 +5596,7 @@
         "edad": 61,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "20:35",
-        "Isaac": 53,
-        "Iliana": 24,
-        "Karina": 23
+        "hora": "20:35"
       },
       "geometry": {
         "type": "Point",
@@ -6500,10 +5615,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "20:43",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "20:43"
       },
       "geometry": {
         "type": "Point",
@@ -6522,10 +5634,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "12:30",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "12:30"
       },
       "geometry": {
         "type": "Point",
@@ -6544,10 +5653,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "17:09",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "17:09"
       },
       "geometry": {
         "type": "Point",
@@ -6566,10 +5672,7 @@
         "edad": 37,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "15:47",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "15:47"
       },
       "geometry": {
         "type": "Point",
@@ -6588,10 +5691,7 @@
         "edad": 37,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "16:53",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "16:53"
       },
       "geometry": {
         "type": "Point",
@@ -6610,10 +5710,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "09:15",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "09:15"
       },
       "geometry": {
         "type": "Point",
@@ -6632,10 +5729,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "11:07",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "11:07"
       },
       "geometry": {
         "type": "Point",
@@ -6654,10 +5748,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "19:19",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "19:19"
       },
       "geometry": {
         "type": "Point",
@@ -6676,10 +5767,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "17:42",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "17:42"
       },
       "geometry": {
         "type": "Point",
@@ -6698,10 +5786,7 @@
         "edad": 51,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "11:00",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "11:00"
       },
       "geometry": {
         "type": "Point",
@@ -6720,10 +5805,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "08:38",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "08:38"
       },
       "geometry": {
         "type": "Point",
@@ -6742,10 +5824,7 @@
         "edad": 70,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "09:42",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "09:42"
       },
       "geometry": {
         "type": "Point",
@@ -6764,10 +5843,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "15:08",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "15:08"
       },
       "geometry": {
         "type": "Point",
@@ -6786,10 +5862,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "15:09",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "15:09"
       },
       "geometry": {
         "type": "Point",
@@ -6808,10 +5881,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "20:59",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "20:59"
       },
       "geometry": {
         "type": "Point",
@@ -6830,10 +5900,7 @@
         "edad": 55,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "10:42",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "10:42"
       },
       "geometry": {
         "type": "Point",
@@ -6852,10 +5919,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "20:39",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "20:39"
       },
       "geometry": {
         "type": "Point",
@@ -6874,10 +5938,7 @@
         "edad": 43,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "10:49",
-        "Isaac": 50,
-        "Iliana": 29,
-        "Karina": 21
+        "hora": "10:49"
       },
       "geometry": {
         "type": "Point",
@@ -6896,10 +5957,7 @@
         "edad": 53,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "14:14",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "14:14"
       },
       "geometry": {
         "type": "Point",
@@ -6918,10 +5976,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "08:00",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "08:00"
       },
       "geometry": {
         "type": "Point",
@@ -6940,10 +5995,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "20:34",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "20:34"
       },
       "geometry": {
         "type": "Point",
@@ -6962,10 +6014,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "09:36",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "09:36"
       },
       "geometry": {
         "type": "Point",
@@ -6984,10 +6033,7 @@
         "edad": 35,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "14:13",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "14:13"
       },
       "geometry": {
         "type": "Point",
@@ -7006,10 +6052,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "08:45",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "08:45"
       },
       "geometry": {
         "type": "Point",
@@ -7028,10 +6071,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "10:02",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "10:02"
       },
       "geometry": {
         "type": "Point",
@@ -7050,10 +6090,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "11:07",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "11:07"
       },
       "geometry": {
         "type": "Point",
@@ -7072,10 +6109,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "17:20",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "17:20"
       },
       "geometry": {
         "type": "Point",
@@ -7094,10 +6128,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "14:53",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "14:53"
       },
       "geometry": {
         "type": "Point",
@@ -7116,10 +6147,7 @@
         "edad": 59,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "09:42",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "09:42"
       },
       "geometry": {
         "type": "Point",
@@ -7138,10 +6166,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "14:29",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "14:29"
       },
       "geometry": {
         "type": "Point",
@@ -7160,10 +6185,7 @@
         "edad": 40,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "09:25",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "09:25"
       },
       "geometry": {
         "type": "Point",
@@ -7182,10 +6204,7 @@
         "edad": 39,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "15:16",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "15:16"
       },
       "geometry": {
         "type": "Point",
@@ -7204,10 +6223,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "20:15",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "20:15"
       },
       "geometry": {
         "type": "Point",
@@ -7226,10 +6242,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "09:45",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "09:45"
       },
       "geometry": {
         "type": "Point",
@@ -7248,10 +6261,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "20:26",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "20:26"
       },
       "geometry": {
         "type": "Point",
@@ -7270,10 +6280,7 @@
         "edad": 53,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "13:40",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "13:40"
       },
       "geometry": {
         "type": "Point",
@@ -7292,10 +6299,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "15:23",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "15:23"
       },
       "geometry": {
         "type": "Point",
@@ -7314,10 +6318,7 @@
         "edad": 68,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "15:25",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "15:25"
       },
       "geometry": {
         "type": "Point",
@@ -7336,10 +6337,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "16:16",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "16:16"
       },
       "geometry": {
         "type": "Point",
@@ -7358,10 +6356,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "09:02",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "09:02"
       },
       "geometry": {
         "type": "Point",
@@ -7380,10 +6375,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "11:38",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "11:38"
       },
       "geometry": {
         "type": "Point",
@@ -7402,10 +6394,7 @@
         "edad": 31,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "17:03",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "17:03"
       },
       "geometry": {
         "type": "Point",
@@ -7424,10 +6413,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "16:37",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "16:37"
       },
       "geometry": {
         "type": "Point",
@@ -7446,10 +6432,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "12:04",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "12:04"
       },
       "geometry": {
         "type": "Point",
@@ -7468,10 +6451,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "15:38",
-        "Isaac": 50,
-        "Iliana": 28,
-        "Karina": 22
+        "hora": "15:38"
       },
       "geometry": {
         "type": "Point",
@@ -7490,10 +6470,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "11:10",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "11:10"
       },
       "geometry": {
         "type": "Point",
@@ -7512,10 +6489,7 @@
         "edad": 59,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "20:53",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "20:53"
       },
       "geometry": {
         "type": "Point",
@@ -7534,10 +6508,7 @@
         "edad": 65,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "18:41",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "18:41"
       },
       "geometry": {
         "type": "Point",
@@ -7556,10 +6527,7 @@
         "edad": 62,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "15:44",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "15:44"
       },
       "geometry": {
         "type": "Point",
@@ -7578,10 +6546,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "10:02",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "10:02"
       },
       "geometry": {
         "type": "Point",
@@ -7600,10 +6565,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "09:18",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "09:18"
       },
       "geometry": {
         "type": "Point",
@@ -7622,10 +6584,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "19:47",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "19:47"
       },
       "geometry": {
         "type": "Point",
@@ -7644,10 +6603,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "09:18",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "09:18"
       },
       "geometry": {
         "type": "Point",
@@ -7666,10 +6622,7 @@
         "edad": 35,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "10:06",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "10:06"
       },
       "geometry": {
         "type": "Point",
@@ -7688,10 +6641,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "15:17",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "15:17"
       },
       "geometry": {
         "type": "Point",
@@ -7710,10 +6660,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "11:58",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "11:58"
       },
       "geometry": {
         "type": "Point",
@@ -7732,10 +6679,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "09:24",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "09:24"
       },
       "geometry": {
         "type": "Point",
@@ -7754,10 +6698,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "17:31",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "17:31"
       },
       "geometry": {
         "type": "Point",
@@ -7776,10 +6717,7 @@
         "edad": 29,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "14:39",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "14:39"
       },
       "geometry": {
         "type": "Point",
@@ -7798,10 +6736,7 @@
         "edad": 50,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "19:04",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "19:04"
       },
       "geometry": {
         "type": "Point",
@@ -7820,10 +6755,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "19:29",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "19:29"
       },
       "geometry": {
         "type": "Point",
@@ -7842,10 +6774,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "18:43",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "18:43"
       },
       "geometry": {
         "type": "Point",
@@ -7864,10 +6793,7 @@
         "edad": 50,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "16:42",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "16:42"
       },
       "geometry": {
         "type": "Point",
@@ -7886,10 +6812,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "15:05",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "15:05"
       },
       "geometry": {
         "type": "Point",
@@ -7908,10 +6831,7 @@
         "edad": 40,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "19:13",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "19:13"
       },
       "geometry": {
         "type": "Point",
@@ -7930,10 +6850,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "09:56",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "09:56"
       },
       "geometry": {
         "type": "Point",
@@ -7952,10 +6869,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "13:53",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "13:53"
       },
       "geometry": {
         "type": "Point",
@@ -7974,10 +6888,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "16:00",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "16:00"
       },
       "geometry": {
         "type": "Point",
@@ -7996,10 +6907,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "19:57",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "19:57"
       },
       "geometry": {
         "type": "Point",
@@ -8018,10 +6926,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "08:28",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "08:28"
       },
       "geometry": {
         "type": "Point",
@@ -8040,10 +6945,7 @@
         "edad": 62,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "18:00",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "18:00"
       },
       "geometry": {
         "type": "Point",
@@ -8062,10 +6964,7 @@
         "edad": 51,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "16:35",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "16:35"
       },
       "geometry": {
         "type": "Point",
@@ -8084,10 +6983,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "18:51",
-        "Isaac": 52,
-        "Iliana": 29,
-        "Karina": 19
+        "hora": "18:51"
       },
       "geometry": {
         "type": "Point",
@@ -8106,10 +7002,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "17:15",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "17:15"
       },
       "geometry": {
         "type": "Point",
@@ -8128,10 +7021,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "12:07",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "12:07"
       },
       "geometry": {
         "type": "Point",
@@ -8150,10 +7040,7 @@
         "edad": 69,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "20:45",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "20:45"
       },
       "geometry": {
         "type": "Point",
@@ -8172,10 +7059,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "08:59",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "08:59"
       },
       "geometry": {
         "type": "Point",
@@ -8194,10 +7078,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "09:01",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "09:01"
       },
       "geometry": {
         "type": "Point",
@@ -8216,10 +7097,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "18:46",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "18:46"
       },
       "geometry": {
         "type": "Point",
@@ -8238,10 +7116,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "08:14",
-        "Isaac": 52,
-        "Iliana": 29,
-        "Karina": 19
+        "hora": "08:14"
       },
       "geometry": {
         "type": "Point",
@@ -8260,10 +7135,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "14:12",
-        "Isaac": 55,
-        "Iliana": 27,
-        "Karina": 18
+        "hora": "14:12"
       },
       "geometry": {
         "type": "Point",
@@ -8282,10 +7154,7 @@
         "edad": 59,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "16:02",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "16:02"
       },
       "geometry": {
         "type": "Point",
@@ -8304,10 +7173,7 @@
         "edad": 25,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "18:04",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "18:04"
       },
       "geometry": {
         "type": "Point",
@@ -8326,10 +7192,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "11:29",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "11:29"
       },
       "geometry": {
         "type": "Point",
@@ -8348,10 +7211,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "11:32",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "11:32"
       },
       "geometry": {
         "type": "Point",
@@ -8370,10 +7230,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "18:09",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "18:09"
       },
       "geometry": {
         "type": "Point",
@@ -8392,10 +7249,7 @@
         "edad": 63,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "10:40",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "10:40"
       },
       "geometry": {
         "type": "Point",
@@ -8414,10 +7268,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "11:34",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "11:34"
       },
       "geometry": {
         "type": "Point",
@@ -8436,10 +7287,7 @@
         "edad": 67,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "19:28",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "19:28"
       },
       "geometry": {
         "type": "Point",
@@ -8458,10 +7306,7 @@
         "edad": 69,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "19:15",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "19:15"
       },
       "geometry": {
         "type": "Point",
@@ -8480,10 +7325,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "12:56",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "12:56"
       },
       "geometry": {
         "type": "Point",
@@ -8502,10 +7344,7 @@
         "edad": 33,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "14:39",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "14:39"
       },
       "geometry": {
         "type": "Point",
@@ -8524,10 +7363,7 @@
         "edad": 52,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "08:38",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "08:38"
       },
       "geometry": {
         "type": "Point",
@@ -8546,10 +7382,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "12:19",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "12:19"
       },
       "geometry": {
         "type": "Point",
@@ -8568,10 +7401,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "09:28",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "09:28"
       },
       "geometry": {
         "type": "Point",
@@ -8590,10 +7420,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "12:09",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "12:09"
       },
       "geometry": {
         "type": "Point",
@@ -8612,10 +7439,7 @@
         "edad": 44,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "16:55",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "16:55"
       },
       "geometry": {
         "type": "Point",
@@ -8634,10 +7458,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "13:47",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "13:47"
       },
       "geometry": {
         "type": "Point",
@@ -8656,10 +7477,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "09:58",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "09:58"
       },
       "geometry": {
         "type": "Point",
@@ -8678,10 +7496,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "13:31",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "13:31"
       },
       "geometry": {
         "type": "Point",
@@ -8700,10 +7515,7 @@
         "edad": 19,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "09:11",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "09:11"
       },
       "geometry": {
         "type": "Point",
@@ -8722,10 +7534,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "19:03",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "19:03"
       },
       "geometry": {
         "type": "Point",
@@ -8744,10 +7553,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "08:07",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "08:07"
       },
       "geometry": {
         "type": "Point",
@@ -8766,10 +7572,7 @@
         "edad": 67,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "10:36",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "10:36"
       },
       "geometry": {
         "type": "Point",
@@ -8788,10 +7591,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "18:54",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "18:54"
       },
       "geometry": {
         "type": "Point",
@@ -8810,10 +7610,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "20:15",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "20:15"
       },
       "geometry": {
         "type": "Point",
@@ -8832,10 +7629,7 @@
         "edad": 60,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "12:03",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "12:03"
       },
       "geometry": {
         "type": "Point",
@@ -8854,10 +7648,7 @@
         "edad": 57,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "20:00",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "20:00"
       },
       "geometry": {
         "type": "Point",
@@ -8876,10 +7667,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "15:35",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "15:35"
       },
       "geometry": {
         "type": "Point",
@@ -8898,10 +7686,7 @@
         "edad": 67,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "12:41",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "12:41"
       },
       "geometry": {
         "type": "Point",
@@ -8920,10 +7705,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "11:23",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "11:23"
       },
       "geometry": {
         "type": "Point",
@@ -8942,10 +7724,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "12:42",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "12:42"
       },
       "geometry": {
         "type": "Point",
@@ -8964,10 +7743,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "20:06",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "20:06"
       },
       "geometry": {
         "type": "Point",
@@ -8986,10 +7762,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "10:50",
-        "Isaac": 50,
-        "Iliana": 28,
-        "Karina": 22
+        "hora": "10:50"
       },
       "geometry": {
         "type": "Point",
@@ -9008,10 +7781,7 @@
         "edad": 40,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "13:34",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "13:34"
       },
       "geometry": {
         "type": "Point",
@@ -9030,10 +7800,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "13:27",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "13:27"
       },
       "geometry": {
         "type": "Point",
@@ -9052,10 +7819,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "20:12",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "20:12"
       },
       "geometry": {
         "type": "Point",
@@ -9074,10 +7838,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "10:27",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "10:27"
       },
       "geometry": {
         "type": "Point",
@@ -9096,10 +7857,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "12:49",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "12:49"
       },
       "geometry": {
         "type": "Point",
@@ -9118,10 +7876,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "16:11",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "16:11"
       },
       "geometry": {
         "type": "Point",
@@ -9140,10 +7895,7 @@
         "edad": 60,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "09:58",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "09:58"
       },
       "geometry": {
         "type": "Point",
@@ -9162,10 +7914,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "14:39",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "14:39"
       },
       "geometry": {
         "type": "Point",
@@ -9184,10 +7933,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "16:17",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "16:17"
       },
       "geometry": {
         "type": "Point",
@@ -9206,10 +7952,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "15:22",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "15:22"
       },
       "geometry": {
         "type": "Point",
@@ -9228,10 +7971,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "10:20",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "10:20"
       },
       "geometry": {
         "type": "Point",
@@ -9250,10 +7990,7 @@
         "edad": 19,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "10:26",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "10:26"
       },
       "geometry": {
         "type": "Point",
@@ -9272,10 +8009,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "20:47",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "20:47"
       },
       "geometry": {
         "type": "Point",
@@ -9294,10 +8028,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "12:22",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "12:22"
       },
       "geometry": {
         "type": "Point",
@@ -9316,10 +8047,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-26",
-        "hora": "09:48",
-        "Isaac": 57,
-        "Iliana": 23,
-        "Karina": 20
+        "hora": "09:48"
       },
       "geometry": {
         "type": "Point",
@@ -9338,10 +8066,7 @@
         "edad": 18,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "16:54",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "16:54"
       },
       "geometry": {
         "type": "Point",
@@ -9360,10 +8085,7 @@
         "edad": 53,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "14:41",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "14:41"
       },
       "geometry": {
         "type": "Point",
@@ -9382,10 +8104,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "11:22",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "11:22"
       },
       "geometry": {
         "type": "Point",
@@ -9404,10 +8123,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "16:23",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "16:23"
       },
       "geometry": {
         "type": "Point",
@@ -9426,10 +8142,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "14:29",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "14:29"
       },
       "geometry": {
         "type": "Point",
@@ -9448,10 +8161,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "17:35",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "17:35"
       },
       "geometry": {
         "type": "Point",
@@ -9470,10 +8180,7 @@
         "edad": 51,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "12:07",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "12:07"
       },
       "geometry": {
         "type": "Point",
@@ -9492,10 +8199,7 @@
         "edad": 39,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "13:25",
-        "Isaac": 53,
-        "Iliana": 24,
-        "Karina": 23
+        "hora": "13:25"
       },
       "geometry": {
         "type": "Point",
@@ -9514,10 +8218,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "18:26",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "18:26"
       },
       "geometry": {
         "type": "Point",
@@ -9536,10 +8237,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "09:50",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "09:50"
       },
       "geometry": {
         "type": "Point",
@@ -9558,10 +8256,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "14:40",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "14:40"
       },
       "geometry": {
         "type": "Point",
@@ -9580,10 +8275,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "13:47",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "13:47"
       },
       "geometry": {
         "type": "Point",
@@ -9602,10 +8294,7 @@
         "edad": 40,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "08:07",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "08:07"
       },
       "geometry": {
         "type": "Point",
@@ -9624,10 +8313,7 @@
         "edad": 75,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "20:22",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "20:22"
       },
       "geometry": {
         "type": "Point",
@@ -9646,10 +8332,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "11:39",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "11:39"
       },
       "geometry": {
         "type": "Point",
@@ -9668,10 +8351,7 @@
         "edad": 65,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "11:10",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "11:10"
       },
       "geometry": {
         "type": "Point",
@@ -9690,10 +8370,7 @@
         "edad": 23,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "17:13",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "17:13"
       },
       "geometry": {
         "type": "Point",
@@ -9712,10 +8389,7 @@
         "edad": 62,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "20:13",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "20:13"
       },
       "geometry": {
         "type": "Point",
@@ -9734,10 +8408,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "08:17",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "08:17"
       },
       "geometry": {
         "type": "Point",
@@ -9756,10 +8427,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "14:32",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "14:32"
       },
       "geometry": {
         "type": "Point",
@@ -9778,10 +8446,7 @@
         "edad": 71,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "19:18",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "19:18"
       },
       "geometry": {
         "type": "Point",
@@ -9800,10 +8465,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "20:28",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "20:28"
       },
       "geometry": {
         "type": "Point",
@@ -9822,10 +8484,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "10:02",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "10:02"
       },
       "geometry": {
         "type": "Point",
@@ -9844,10 +8503,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "13:43",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "13:43"
       },
       "geometry": {
         "type": "Point",
@@ -9866,10 +8522,7 @@
         "edad": 37,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "13:07",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "13:07"
       },
       "geometry": {
         "type": "Point",
@@ -9888,10 +8541,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "09:57",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "09:57"
       },
       "geometry": {
         "type": "Point",
@@ -9910,10 +8560,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "16:13",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "16:13"
       },
       "geometry": {
         "type": "Point",
@@ -9932,10 +8579,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "17:56",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "17:56"
       },
       "geometry": {
         "type": "Point",
@@ -9954,10 +8598,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "17:21",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "17:21"
       },
       "geometry": {
         "type": "Point",
@@ -9976,10 +8617,7 @@
         "edad": 50,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "20:33",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "20:33"
       },
       "geometry": {
         "type": "Point",
@@ -9998,10 +8636,7 @@
         "edad": 30,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "14:01",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "14:01"
       },
       "geometry": {
         "type": "Point",
@@ -10020,10 +8655,7 @@
         "edad": 72,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "08:39",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "08:39"
       },
       "geometry": {
         "type": "Point",
@@ -10042,10 +8674,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "20:06",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "20:06"
       },
       "geometry": {
         "type": "Point",
@@ -10064,10 +8693,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "09:02",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "09:02"
       },
       "geometry": {
         "type": "Point",
@@ -10086,10 +8712,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "18:37",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "18:37"
       },
       "geometry": {
         "type": "Point",
@@ -10108,10 +8731,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "11:04",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "11:04"
       },
       "geometry": {
         "type": "Point",
@@ -10130,10 +8750,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "15:34",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "15:34"
       },
       "geometry": {
         "type": "Point",
@@ -10152,10 +8769,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "18:38",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "18:38"
       },
       "geometry": {
         "type": "Point",
@@ -10174,10 +8788,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "09:15",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "09:15"
       },
       "geometry": {
         "type": "Point",
@@ -10196,10 +8807,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "20:10",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "20:10"
       },
       "geometry": {
         "type": "Point",
@@ -10218,10 +8826,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "19:19",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "19:19"
       },
       "geometry": {
         "type": "Point",
@@ -10240,10 +8845,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "12:34",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "12:34"
       },
       "geometry": {
         "type": "Point",
@@ -10262,10 +8864,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "09:23",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "09:23"
       },
       "geometry": {
         "type": "Point",
@@ -10284,10 +8883,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "09:58",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "09:58"
       },
       "geometry": {
         "type": "Point",
@@ -10306,10 +8902,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "16:02",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "16:02"
       },
       "geometry": {
         "type": "Point",
@@ -10328,10 +8921,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "09:36",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "09:36"
       },
       "geometry": {
         "type": "Point",
@@ -10350,10 +8940,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-22",
-        "hora": "19:24",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "19:24"
       },
       "geometry": {
         "type": "Point",
@@ -10372,10 +8959,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "14:03",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "14:03"
       },
       "geometry": {
         "type": "Point",
@@ -10394,10 +8978,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "13:02",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "13:02"
       },
       "geometry": {
         "type": "Point",
@@ -10416,10 +8997,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "09:13",
-        "Isaac": 54,
-        "Iliana": 22,
-        "Karina": 24
+        "hora": "09:13"
       },
       "geometry": {
         "type": "Point",
@@ -10438,10 +9016,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "19:21",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "19:21"
       },
       "geometry": {
         "type": "Point",
@@ -10460,10 +9035,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "18:31",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "18:31"
       },
       "geometry": {
         "type": "Point",
@@ -10482,10 +9054,7 @@
         "edad": 21,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "17:56",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "17:56"
       },
       "geometry": {
         "type": "Point",
@@ -10504,10 +9073,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "10:58",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "10:58"
       },
       "geometry": {
         "type": "Point",
@@ -10526,10 +9092,7 @@
         "edad": 30,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "18:19",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "18:19"
       },
       "geometry": {
         "type": "Point",
@@ -10548,10 +9111,7 @@
         "edad": 21,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "14:08",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "14:08"
       },
       "geometry": {
         "type": "Point",
@@ -10570,10 +9130,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-22",
-        "hora": "14:34",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "14:34"
       },
       "geometry": {
         "type": "Point",
@@ -10592,10 +9149,7 @@
         "edad": 66,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "12:42",
-        "Isaac": 52,
-        "Iliana": 23,
-        "Karina": 25
+        "hora": "12:42"
       },
       "geometry": {
         "type": "Point",
@@ -10614,10 +9168,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "19:54",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "19:54"
       },
       "geometry": {
         "type": "Point",
@@ -10636,10 +9187,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "17:34",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "17:34"
       },
       "geometry": {
         "type": "Point",
@@ -10658,10 +9206,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "14:33",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "14:33"
       },
       "geometry": {
         "type": "Point",
@@ -10680,10 +9225,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "11:17",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "11:17"
       },
       "geometry": {
         "type": "Point",
@@ -10702,10 +9244,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "15:35",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "15:35"
       },
       "geometry": {
         "type": "Point",
@@ -10724,10 +9263,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "16:40",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "16:40"
       },
       "geometry": {
         "type": "Point",
@@ -10746,10 +9282,7 @@
         "edad": 61,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "16:17",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "16:17"
       },
       "geometry": {
         "type": "Point",
@@ -10768,10 +9301,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "14:09",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "14:09"
       },
       "geometry": {
         "type": "Point",
@@ -10790,10 +9320,7 @@
         "edad": 36,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "18:03",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "18:03"
       },
       "geometry": {
         "type": "Point",
@@ -10812,10 +9339,7 @@
         "edad": 71,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "13:21",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "13:21"
       },
       "geometry": {
         "type": "Point",
@@ -10834,10 +9358,7 @@
         "edad": 36,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "19:34",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "19:34"
       },
       "geometry": {
         "type": "Point",
@@ -10856,10 +9377,7 @@
         "edad": 66,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "14:53",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "14:53"
       },
       "geometry": {
         "type": "Point",
@@ -10878,10 +9396,7 @@
         "edad": 51,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "20:33",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "20:33"
       },
       "geometry": {
         "type": "Point",
@@ -10900,10 +9415,7 @@
         "edad": 25,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "08:55",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "08:55"
       },
       "geometry": {
         "type": "Point",
@@ -10922,10 +9434,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "12:31",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "12:31"
       },
       "geometry": {
         "type": "Point",
@@ -10944,10 +9453,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "20:46",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "20:46"
       },
       "geometry": {
         "type": "Point",
@@ -10966,10 +9472,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "08:05",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "08:05"
       },
       "geometry": {
         "type": "Point",
@@ -10988,10 +9491,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "17:08",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "17:08"
       },
       "geometry": {
         "type": "Point",
@@ -11010,10 +9510,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "10:04",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "10:04"
       },
       "geometry": {
         "type": "Point",
@@ -11032,10 +9529,7 @@
         "edad": 59,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "14:37",
-        "Isaac": 56,
-        "Iliana": 24,
-        "Karina": 20
+        "hora": "14:37"
       },
       "geometry": {
         "type": "Point",
@@ -11054,10 +9548,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "14:13",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "14:13"
       },
       "geometry": {
         "type": "Point",
@@ -11076,10 +9567,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "19:08",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "19:08"
       },
       "geometry": {
         "type": "Point",
@@ -11098,10 +9586,7 @@
         "edad": 71,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "10:07",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "10:07"
       },
       "geometry": {
         "type": "Point",
@@ -11120,10 +9605,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "11:11",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "11:11"
       },
       "geometry": {
         "type": "Point",
@@ -11142,10 +9624,7 @@
         "edad": 37,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "16:27",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "16:27"
       },
       "geometry": {
         "type": "Point",
@@ -11164,10 +9643,7 @@
         "edad": 75,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "20:11",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "20:11"
       },
       "geometry": {
         "type": "Point",
@@ -11186,10 +9662,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "17:25",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "17:25"
       },
       "geometry": {
         "type": "Point",
@@ -11208,10 +9681,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "19:46",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "19:46"
       },
       "geometry": {
         "type": "Point",
@@ -11230,10 +9700,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "19:49",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "19:49"
       },
       "geometry": {
         "type": "Point",
@@ -11252,10 +9719,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "08:51",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "08:51"
       },
       "geometry": {
         "type": "Point",
@@ -11274,10 +9738,7 @@
         "edad": 22,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "08:35",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "08:35"
       },
       "geometry": {
         "type": "Point",
@@ -11296,10 +9757,7 @@
         "edad": 39,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "18:46",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "18:46"
       },
       "geometry": {
         "type": "Point",
@@ -11318,10 +9776,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "12:09",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "12:09"
       },
       "geometry": {
         "type": "Point",
@@ -11340,10 +9795,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "13:24",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "13:24"
       },
       "geometry": {
         "type": "Point",
@@ -11362,10 +9814,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "09:05",
-        "Isaac": 58,
-        "Iliana": 27,
-        "Karina": 15
+        "hora": "09:05"
       },
       "geometry": {
         "type": "Point",
@@ -11384,10 +9833,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "19:43",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "19:43"
       },
       "geometry": {
         "type": "Point",
@@ -11406,10 +9852,7 @@
         "edad": 44,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "20:26",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "20:26"
       },
       "geometry": {
         "type": "Point",
@@ -11428,10 +9871,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "19:36",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "19:36"
       },
       "geometry": {
         "type": "Point",
@@ -11450,10 +9890,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "11:50",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "11:50"
       },
       "geometry": {
         "type": "Point",
@@ -11472,10 +9909,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "14:05",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "14:05"
       },
       "geometry": {
         "type": "Point",
@@ -11494,10 +9928,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "20:21",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "20:21"
       },
       "geometry": {
         "type": "Point",
@@ -11516,10 +9947,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "16:07",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "16:07"
       },
       "geometry": {
         "type": "Point",
@@ -11538,10 +9966,7 @@
         "edad": 37,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "12:38",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "12:38"
       },
       "geometry": {
         "type": "Point",
@@ -11560,10 +9985,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-30",
-        "hora": "20:42",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "20:42"
       },
       "geometry": {
         "type": "Point",
@@ -11582,10 +10004,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "17:08",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "17:08"
       },
       "geometry": {
         "type": "Point",
@@ -11604,10 +10023,7 @@
         "edad": 54,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "12:22",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "12:22"
       },
       "geometry": {
         "type": "Point",
@@ -11626,10 +10042,7 @@
         "edad": 39,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "14:45",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "14:45"
       },
       "geometry": {
         "type": "Point",
@@ -11648,10 +10061,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "17:38",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "17:38"
       },
       "geometry": {
         "type": "Point",
@@ -11670,10 +10080,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "08:04",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "08:04"
       },
       "geometry": {
         "type": "Point",
@@ -11692,10 +10099,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "13:50",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "13:50"
       },
       "geometry": {
         "type": "Point",
@@ -11714,10 +10118,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "17:37",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "17:37"
       },
       "geometry": {
         "type": "Point",
@@ -11736,10 +10137,7 @@
         "edad": 19,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "18:41",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "18:41"
       },
       "geometry": {
         "type": "Point",
@@ -11758,10 +10156,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "12:44",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "12:44"
       },
       "geometry": {
         "type": "Point",
@@ -11780,10 +10175,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "16:06",
-        "Isaac": 53,
-        "Iliana": 26,
-        "Karina": 21
+        "hora": "16:06"
       },
       "geometry": {
         "type": "Point",
@@ -11802,10 +10194,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "09:34",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "09:34"
       },
       "geometry": {
         "type": "Point",
@@ -11824,10 +10213,7 @@
         "edad": 67,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "15:47",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "15:47"
       },
       "geometry": {
         "type": "Point",
@@ -11846,10 +10232,7 @@
         "edad": 34,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "14:33",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "14:33"
       },
       "geometry": {
         "type": "Point",
@@ -11868,10 +10251,7 @@
         "edad": 47,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "09:12",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "09:12"
       },
       "geometry": {
         "type": "Point",
@@ -11890,10 +10270,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "09:32",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "09:32"
       },
       "geometry": {
         "type": "Point",
@@ -11912,10 +10289,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "14:56",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "14:56"
       },
       "geometry": {
         "type": "Point",
@@ -11934,10 +10308,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "12:04",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "12:04"
       },
       "geometry": {
         "type": "Point",
@@ -11956,10 +10327,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "13:45",
-        "Isaac": 52,
-        "Iliana": 23,
-        "Karina": 25
+        "hora": "13:45"
       },
       "geometry": {
         "type": "Point",
@@ -11978,10 +10346,7 @@
         "edad": 23,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "17:02",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "17:02"
       },
       "geometry": {
         "type": "Point",
@@ -12000,10 +10365,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "19:11",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "19:11"
       },
       "geometry": {
         "type": "Point",
@@ -12022,10 +10384,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "18:05",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "18:05"
       },
       "geometry": {
         "type": "Point",
@@ -12044,10 +10403,7 @@
         "edad": 55,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "12:39",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "12:39"
       },
       "geometry": {
         "type": "Point",
@@ -12066,10 +10422,7 @@
         "edad": 59,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "12:02",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "12:02"
       },
       "geometry": {
         "type": "Point",
@@ -12088,10 +10441,7 @@
         "edad": 48,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "19:02",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "19:02"
       },
       "geometry": {
         "type": "Point",
@@ -12110,10 +10460,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "13:43",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "13:43"
       },
       "geometry": {
         "type": "Point",
@@ -12132,10 +10479,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "18:35",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "18:35"
       },
       "geometry": {
         "type": "Point",
@@ -12154,10 +10498,7 @@
         "edad": 69,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "08:23",
-        "Isaac": 57,
-        "Iliana": 25,
-        "Karina": 18
+        "hora": "08:23"
       },
       "geometry": {
         "type": "Point",
@@ -12176,10 +10517,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "17:23",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "17:23"
       },
       "geometry": {
         "type": "Point",
@@ -12198,10 +10536,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "10:50",
-        "Isaac": 51,
-        "Iliana": 24,
-        "Karina": 25
+        "hora": "10:50"
       },
       "geometry": {
         "type": "Point",
@@ -12220,10 +10555,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "09:53",
-        "Isaac": 57,
-        "Iliana": 27,
-        "Karina": 16
+        "hora": "09:53"
       },
       "geometry": {
         "type": "Point",
@@ -12242,10 +10574,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "08:24",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "08:24"
       },
       "geometry": {
         "type": "Point",
@@ -12264,10 +10593,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-18",
-        "hora": "15:49",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "15:49"
       },
       "geometry": {
         "type": "Point",
@@ -12286,10 +10612,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-27",
-        "hora": "20:15",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "20:15"
       },
       "geometry": {
         "type": "Point",
@@ -12308,10 +10631,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "19:45",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "19:45"
       },
       "geometry": {
         "type": "Point",
@@ -12330,10 +10650,7 @@
         "edad": 58,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "18:55",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "18:55"
       },
       "geometry": {
         "type": "Point",
@@ -12352,10 +10669,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "15:36",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "15:36"
       },
       "geometry": {
         "type": "Point",
@@ -12374,10 +10688,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "18:21",
-        "Isaac": 51,
-        "Iliana": 25,
-        "Karina": 24
+        "hora": "18:21"
       },
       "geometry": {
         "type": "Point",
@@ -12396,10 +10707,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "17:46",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "17:46"
       },
       "geometry": {
         "type": "Point",
@@ -12418,10 +10726,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "14:21",
-        "Isaac": 50,
-        "Iliana": 25,
-        "Karina": 25
+        "hora": "14:21"
       },
       "geometry": {
         "type": "Point",
@@ -12440,10 +10745,7 @@
         "edad": 73,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "10:08",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "10:08"
       },
       "geometry": {
         "type": "Point",
@@ -12462,10 +10764,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "13:26",
-        "Isaac": 54,
-        "Iliana": 28,
-        "Karina": 18
+        "hora": "13:26"
       },
       "geometry": {
         "type": "Point",
@@ -12484,10 +10783,7 @@
         "edad": 56,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "19:40",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "19:40"
       },
       "geometry": {
         "type": "Point",
@@ -12506,10 +10802,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "17:19",
-        "Isaac": 57,
-        "Iliana": 23,
-        "Karina": 20
+        "hora": "17:19"
       },
       "geometry": {
         "type": "Point",
@@ -12528,10 +10821,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "12:19",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "12:19"
       },
       "geometry": {
         "type": "Point",
@@ -12550,10 +10840,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "14:54",
-        "Isaac": 57,
-        "Iliana": 24,
-        "Karina": 19
+        "hora": "14:54"
       },
       "geometry": {
         "type": "Point",
@@ -12572,10 +10859,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "17:48",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "17:48"
       },
       "geometry": {
         "type": "Point",
@@ -12594,10 +10878,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-04",
-        "hora": "17:45",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "17:45"
       },
       "geometry": {
         "type": "Point",
@@ -12616,10 +10897,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "13:46",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "13:46"
       },
       "geometry": {
         "type": "Point",
@@ -12638,10 +10916,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-17",
-        "hora": "20:07",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "20:07"
       },
       "geometry": {
         "type": "Point",
@@ -12660,10 +10935,7 @@
         "edad": 22,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "10:04",
-        "Isaac": 53,
-        "Iliana": 27,
-        "Karina": 20
+        "hora": "10:04"
       },
       "geometry": {
         "type": "Point",
@@ -12682,10 +10954,7 @@
         "edad": 29,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "16:30",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "16:30"
       },
       "geometry": {
         "type": "Point",
@@ -12704,10 +10973,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "18:51",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "18:51"
       },
       "geometry": {
         "type": "Point",
@@ -12726,10 +10992,7 @@
         "edad": 53,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "09:54",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "09:54"
       },
       "geometry": {
         "type": "Point",
@@ -12748,10 +11011,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "18:46",
-        "Isaac": 53,
-        "Iliana": 22,
-        "Karina": 25
+        "hora": "18:46"
       },
       "geometry": {
         "type": "Point",
@@ -12770,10 +11030,7 @@
         "edad": 51,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "15:25",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "15:25"
       },
       "geometry": {
         "type": "Point",
@@ -12792,10 +11049,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "18:35",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "18:35"
       },
       "geometry": {
         "type": "Point",
@@ -12814,10 +11068,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "08:19",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "08:19"
       },
       "geometry": {
         "type": "Point",
@@ -12836,10 +11087,7 @@
         "edad": 39,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "17:37",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "17:37"
       },
       "geometry": {
         "type": "Point",
@@ -12858,10 +11106,7 @@
         "edad": 31,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "12:55",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "12:55"
       },
       "geometry": {
         "type": "Point",
@@ -12880,10 +11125,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "18:48",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "18:48"
       },
       "geometry": {
         "type": "Point",
@@ -12902,10 +11144,7 @@
         "edad": 55,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "18:19",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "18:19"
       },
       "geometry": {
         "type": "Point",
@@ -12924,10 +11163,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "16:26",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "16:26"
       },
       "geometry": {
         "type": "Point",
@@ -12946,10 +11182,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "11:44",
-        "Isaac": 53,
-        "Iliana": 24,
-        "Karina": 23
+        "hora": "11:44"
       },
       "geometry": {
         "type": "Point",
@@ -12968,10 +11201,7 @@
         "edad": 45,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "20:53",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "20:53"
       },
       "geometry": {
         "type": "Point",
@@ -12990,10 +11220,7 @@
         "edad": 22,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "18:19",
-        "Isaac": 56,
-        "Iliana": 27,
-        "Karina": 17
+        "hora": "18:19"
       },
       "geometry": {
         "type": "Point",
@@ -13012,10 +11239,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "10:45",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "10:45"
       },
       "geometry": {
         "type": "Point",
@@ -13034,10 +11258,7 @@
         "edad": 43,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "17:36",
-        "Isaac": 54,
-        "Iliana": 26,
-        "Karina": 20
+        "hora": "17:36"
       },
       "geometry": {
         "type": "Point",
@@ -13056,10 +11277,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "19:28",
-        "Isaac": 55,
-        "Iliana": 22,
-        "Karina": 23
+        "hora": "19:28"
       },
       "geometry": {
         "type": "Point",
@@ -13078,10 +11296,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "09:09",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "09:09"
       },
       "geometry": {
         "type": "Point",
@@ -13100,10 +11315,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "15:10",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "15:10"
       },
       "geometry": {
         "type": "Point",
@@ -13122,10 +11334,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "10:19",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "10:19"
       },
       "geometry": {
         "type": "Point",
@@ -13144,10 +11353,7 @@
         "edad": 27,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "11:07",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "11:07"
       },
       "geometry": {
         "type": "Point",
@@ -13166,10 +11372,7 @@
         "edad": 33,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "09:10",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "09:10"
       },
       "geometry": {
         "type": "Point",
@@ -13188,10 +11391,7 @@
         "edad": 44,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "20:43",
-        "Isaac": 54,
-        "Iliana": 30,
-        "Karina": 16
+        "hora": "20:43"
       },
       "geometry": {
         "type": "Point",
@@ -13210,10 +11410,7 @@
         "edad": 43,
         "sexo": "M",
         "fecha": "2026-04-14",
-        "hora": "18:20",
-        "Isaac": 58,
-        "Iliana": 22,
-        "Karina": 20
+        "hora": "18:20"
       },
       "geometry": {
         "type": "Point",
@@ -13232,10 +11429,7 @@
         "edad": 20,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "20:31",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "20:31"
       },
       "geometry": {
         "type": "Point",
@@ -13254,10 +11448,7 @@
         "edad": 40,
         "sexo": "F",
         "fecha": "2026-04-08",
-        "hora": "18:41",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "18:41"
       },
       "geometry": {
         "type": "Point",
@@ -13276,10 +11467,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "11:56",
-        "Isaac": 55,
-        "Iliana": 24,
-        "Karina": 21
+        "hora": "11:56"
       },
       "geometry": {
         "type": "Point",
@@ -13298,10 +11486,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "10:26",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "10:26"
       },
       "geometry": {
         "type": "Point",
@@ -13320,10 +11505,7 @@
         "edad": 24,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "20:43",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "20:43"
       },
       "geometry": {
         "type": "Point",
@@ -13342,10 +11524,7 @@
         "edad": 36,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "18:51",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "18:51"
       },
       "geometry": {
         "type": "Point",
@@ -13364,10 +11543,7 @@
         "edad": 64,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "12:55",
-        "Isaac": 51,
-        "Iliana": 25,
-        "Karina": 24
+        "hora": "12:55"
       },
       "geometry": {
         "type": "Point",
@@ -13386,10 +11562,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "11:40",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "11:40"
       },
       "geometry": {
         "type": "Point",
@@ -13408,10 +11581,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-23",
-        "hora": "10:38",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "10:38"
       },
       "geometry": {
         "type": "Point",
@@ -13430,10 +11600,7 @@
         "edad": 37,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "15:14",
-        "Isaac": 53,
-        "Iliana": 28,
-        "Karina": 19
+        "hora": "15:14"
       },
       "geometry": {
         "type": "Point",
@@ -13452,10 +11619,7 @@
         "edad": 34,
         "sexo": "M",
         "fecha": "2026-04-25",
-        "hora": "17:07",
-        "Isaac": 58,
-        "Iliana": 30,
-        "Karina": 12
+        "hora": "17:07"
       },
       "geometry": {
         "type": "Point",
@@ -13474,10 +11638,7 @@
         "edad": 31,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "09:40",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "09:40"
       },
       "geometry": {
         "type": "Point",
@@ -13496,10 +11657,7 @@
         "edad": 28,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "09:58",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "09:58"
       },
       "geometry": {
         "type": "Point",
@@ -13518,10 +11676,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-12",
-        "hora": "08:34",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "08:34"
       },
       "geometry": {
         "type": "Point",
@@ -13540,10 +11695,7 @@
         "edad": 18,
         "sexo": "M",
         "fecha": "2026-04-20",
-        "hora": "10:38",
-        "Isaac": 54,
-        "Iliana": 23,
-        "Karina": 23
+        "hora": "10:38"
       },
       "geometry": {
         "type": "Point",
@@ -13562,10 +11714,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "13:30",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "13:30"
       },
       "geometry": {
         "type": "Point",
@@ -13584,10 +11733,7 @@
         "edad": 57,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "20:13",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "20:13"
       },
       "geometry": {
         "type": "Point",
@@ -13606,10 +11752,7 @@
         "edad": 20,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "19:23",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "19:23"
       },
       "geometry": {
         "type": "Point",
@@ -13628,10 +11771,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "16:20",
-        "Isaac": 58,
-        "Iliana": 29,
-        "Karina": 13
+        "hora": "16:20"
       },
       "geometry": {
         "type": "Point",
@@ -13650,10 +11790,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "18:47",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "18:47"
       },
       "geometry": {
         "type": "Point",
@@ -13672,10 +11809,7 @@
         "edad": 56,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "17:55",
-        "Isaac": 55,
-        "Iliana": 25,
-        "Karina": 20
+        "hora": "17:55"
       },
       "geometry": {
         "type": "Point",
@@ -13694,10 +11828,7 @@
         "edad": 40,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "12:36",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "12:36"
       },
       "geometry": {
         "type": "Point",
@@ -13716,10 +11847,7 @@
         "edad": 46,
         "sexo": "M",
         "fecha": "2026-04-26",
-        "hora": "10:00",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "10:00"
       },
       "geometry": {
         "type": "Point",
@@ -13738,10 +11866,7 @@
         "edad": 29,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "20:03",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "20:03"
       },
       "geometry": {
         "type": "Point",
@@ -13760,10 +11885,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "11:04",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "11:04"
       },
       "geometry": {
         "type": "Point",
@@ -13782,10 +11904,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "20:46",
-        "Isaac": 56,
-        "Iliana": 30,
-        "Karina": 14
+        "hora": "20:46"
       },
       "geometry": {
         "type": "Point",
@@ -13804,10 +11923,7 @@
         "edad": 24,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "15:55",
-        "Isaac": 51,
-        "Iliana": 23,
-        "Karina": 26
+        "hora": "15:55"
       },
       "geometry": {
         "type": "Point",
@@ -13826,10 +11942,7 @@
         "edad": 19,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "09:22",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "09:22"
       },
       "geometry": {
         "type": "Point",
@@ -13848,10 +11961,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "08:20",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "08:20"
       },
       "geometry": {
         "type": "Point",
@@ -13870,10 +11980,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "14:19",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "14:19"
       },
       "geometry": {
         "type": "Point",
@@ -13892,10 +11999,7 @@
         "edad": 22,
         "sexo": "M",
         "fecha": "2026-04-08",
-        "hora": "18:51",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "18:51"
       },
       "geometry": {
         "type": "Point",
@@ -13914,10 +12018,7 @@
         "edad": 54,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "17:14",
-        "Isaac": 53,
-        "Iliana": 29,
-        "Karina": 18
+        "hora": "17:14"
       },
       "geometry": {
         "type": "Point",
@@ -13936,10 +12037,7 @@
         "edad": 52,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "09:09",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "09:09"
       },
       "geometry": {
         "type": "Point",
@@ -13958,10 +12056,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "18:49",
-        "Isaac": 51,
-        "Iliana": 27,
-        "Karina": 22
+        "hora": "18:49"
       },
       "geometry": {
         "type": "Point",
@@ -13980,10 +12075,7 @@
         "edad": 53,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "17:30",
-        "Isaac": 57,
-        "Iliana": 22,
-        "Karina": 21
+        "hora": "17:30"
       },
       "geometry": {
         "type": "Point",
@@ -14002,10 +12094,7 @@
         "edad": 70,
         "sexo": "M",
         "fecha": "2026-04-21",
-        "hora": "20:08",
-        "Isaac": 56,
-        "Iliana": 29,
-        "Karina": 15
+        "hora": "20:08"
       },
       "geometry": {
         "type": "Point",
@@ -14024,10 +12113,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "10:30",
-        "Isaac": 52,
-        "Iliana": 28,
-        "Karina": 20
+        "hora": "10:30"
       },
       "geometry": {
         "type": "Point",
@@ -14046,10 +12132,7 @@
         "edad": 51,
         "sexo": "M",
         "fecha": "2026-04-28",
-        "hora": "18:31",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "18:31"
       },
       "geometry": {
         "type": "Point",
@@ -14068,10 +12151,7 @@
         "edad": 71,
         "sexo": "F",
         "fecha": "2026-04-02",
-        "hora": "09:01",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "09:01"
       },
       "geometry": {
         "type": "Point",
@@ -14090,10 +12170,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-15",
-        "hora": "14:27",
-        "Isaac": 50,
-        "Iliana": 27,
-        "Karina": 23
+        "hora": "14:27"
       },
       "geometry": {
         "type": "Point",
@@ -14112,10 +12189,7 @@
         "edad": 60,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "15:29",
-        "Isaac": 50,
-        "Iliana": 22,
-        "Karina": 28
+        "hora": "15:29"
       },
       "geometry": {
         "type": "Point",
@@ -14134,10 +12208,7 @@
         "edad": 28,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "11:51",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "11:51"
       },
       "geometry": {
         "type": "Point",
@@ -14156,10 +12227,7 @@
         "edad": 44,
         "sexo": "M",
         "fecha": "2026-04-05",
-        "hora": "19:29",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "19:29"
       },
       "geometry": {
         "type": "Point",
@@ -14178,10 +12246,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-06",
-        "hora": "18:22",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "18:22"
       },
       "geometry": {
         "type": "Point",
@@ -14200,10 +12265,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "13:51",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "13:51"
       },
       "geometry": {
         "type": "Point",
@@ -14222,10 +12284,7 @@
         "edad": 38,
         "sexo": "F",
         "fecha": "2026-04-18",
-        "hora": "14:44",
-        "Isaac": 51,
-        "Iliana": 22,
-        "Karina": 27
+        "hora": "14:44"
       },
       "geometry": {
         "type": "Point",
@@ -14244,10 +12303,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "10:21",
-        "Isaac": 57,
-        "Iliana": 28,
-        "Karina": 15
+        "hora": "10:21"
       },
       "geometry": {
         "type": "Point",
@@ -14266,10 +12322,7 @@
         "edad": 65,
         "sexo": "M",
         "fecha": "2026-04-27",
-        "hora": "15:55",
-        "Isaac": 58,
-        "Iliana": 28,
-        "Karina": 14
+        "hora": "15:55"
       },
       "geometry": {
         "type": "Point",
@@ -14288,10 +12341,7 @@
         "edad": 45,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "12:03",
-        "Isaac": 52,
-        "Iliana": 23,
-        "Karina": 25
+        "hora": "12:03"
       },
       "geometry": {
         "type": "Point",
@@ -14310,10 +12360,7 @@
         "edad": 48,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "13:29",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "13:29"
       },
       "geometry": {
         "type": "Point",
@@ -14332,10 +12379,7 @@
         "edad": 41,
         "sexo": "F",
         "fecha": "2026-04-20",
-        "hora": "18:40",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "18:40"
       },
       "geometry": {
         "type": "Point",
@@ -14354,10 +12398,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-03",
-        "hora": "13:15",
-        "Isaac": 58,
-        "Iliana": 25,
-        "Karina": 17
+        "hora": "13:15"
       },
       "geometry": {
         "type": "Point",
@@ -14376,10 +12417,7 @@
         "edad": 26,
         "sexo": "M",
         "fecha": "2026-04-17",
-        "hora": "15:52",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "15:52"
       },
       "geometry": {
         "type": "Point",
@@ -14398,10 +12436,7 @@
         "edad": 58,
         "sexo": "F",
         "fecha": "2026-04-14",
-        "hora": "17:54",
-        "Isaac": 56,
-        "Iliana": 25,
-        "Karina": 19
+        "hora": "17:54"
       },
       "geometry": {
         "type": "Point",
@@ -14420,10 +12455,7 @@
         "edad": 21,
         "sexo": "F",
         "fecha": "2026-04-29",
-        "hora": "20:32",
-        "Isaac": 56,
-        "Iliana": 28,
-        "Karina": 16
+        "hora": "20:32"
       },
       "geometry": {
         "type": "Point",
@@ -14442,10 +12474,7 @@
         "edad": 35,
         "sexo": "F",
         "fecha": "2026-04-25",
-        "hora": "09:59",
-        "Isaac": 58,
-        "Iliana": 24,
-        "Karina": 18
+        "hora": "09:59"
       },
       "geometry": {
         "type": "Point",
@@ -14464,10 +12493,7 @@
         "edad": 22,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "08:56",
-        "Isaac": 53,
-        "Iliana": 25,
-        "Karina": 22
+        "hora": "08:56"
       },
       "geometry": {
         "type": "Point",
@@ -14486,10 +12512,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-26",
-        "hora": "20:53",
-        "Isaac": 55,
-        "Iliana": 26,
-        "Karina": 19
+        "hora": "20:53"
       },
       "geometry": {
         "type": "Point",
@@ -14508,10 +12531,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "10:15",
-        "Isaac": 50,
-        "Iliana": 26,
-        "Karina": 24
+        "hora": "10:15"
       },
       "geometry": {
         "type": "Point",
@@ -14530,10 +12550,7 @@
         "edad": 73,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "08:22",
-        "Isaac": 51,
-        "Iliana": 26,
-        "Karina": 23
+        "hora": "08:22"
       },
       "geometry": {
         "type": "Point",
@@ -14552,10 +12569,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-10",
-        "hora": "20:13",
-        "Isaac": 54,
-        "Iliana": 25,
-        "Karina": 21
+        "hora": "20:13"
       },
       "geometry": {
         "type": "Point",
@@ -14574,10 +12588,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-06",
-        "hora": "14:26",
-        "Isaac": 52,
-        "Iliana": 29,
-        "Karina": 19
+        "hora": "14:26"
       },
       "geometry": {
         "type": "Point",
@@ -14596,10 +12607,7 @@
         "edad": 66,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "12:58",
-        "Isaac": 55,
-        "Iliana": 28,
-        "Karina": 17
+        "hora": "12:58"
       },
       "geometry": {
         "type": "Point",
@@ -14618,10 +12626,7 @@
         "edad": 74,
         "sexo": "M",
         "fecha": "2026-04-07",
-        "hora": "16:13",
-        "Isaac": 57,
-        "Iliana": 23,
-        "Karina": 20
+        "hora": "16:13"
       },
       "geometry": {
         "type": "Point",
@@ -14640,10 +12645,7 @@
         "edad": 74,
         "sexo": "F",
         "fecha": "2026-04-23",
-        "hora": "08:21",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "08:21"
       },
       "geometry": {
         "type": "Point",
@@ -14662,10 +12664,7 @@
         "edad": 38,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "08:13",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "08:13"
       },
       "geometry": {
         "type": "Point",
@@ -14684,10 +12683,7 @@
         "edad": 67,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "11:41",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "11:41"
       },
       "geometry": {
         "type": "Point",
@@ -14706,10 +12702,7 @@
         "edad": 26,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "12:39",
-        "Isaac": 52,
-        "Iliana": 22,
-        "Karina": 26
+        "hora": "12:39"
       },
       "geometry": {
         "type": "Point",
@@ -14728,10 +12721,7 @@
         "edad": 36,
         "sexo": "F",
         "fecha": "2026-04-01",
-        "hora": "18:01",
-        "Isaac": 55,
-        "Iliana": 30,
-        "Karina": 15
+        "hora": "18:01"
       },
       "geometry": {
         "type": "Point",
@@ -14750,10 +12740,7 @@
         "edad": 66,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "17:15",
-        "Isaac": 58,
-        "Iliana": 26,
-        "Karina": 16
+        "hora": "17:15"
       },
       "geometry": {
         "type": "Point",
@@ -14772,10 +12759,7 @@
         "edad": 70,
         "sexo": "M",
         "fecha": "2026-04-19",
-        "hora": "14:01",
-        "Isaac": 53,
-        "Iliana": 30,
-        "Karina": 17
+        "hora": "14:01"
       },
       "geometry": {
         "type": "Point",
@@ -14794,10 +12778,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-19",
-        "hora": "18:30",
-        "Isaac": 56,
-        "Iliana": 23,
-        "Karina": 21
+        "hora": "18:30"
       },
       "geometry": {
         "type": "Point",
@@ -14816,10 +12797,7 @@
         "edad": 34,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "10:33",
-        "Isaac": 57,
-        "Iliana": 30,
-        "Karina": 13
+        "hora": "10:33"
       },
       "geometry": {
         "type": "Point",
@@ -14838,10 +12816,7 @@
         "edad": 49,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "19:10",
-        "Isaac": 54,
-        "Iliana": 27,
-        "Karina": 19
+        "hora": "19:10"
       },
       "geometry": {
         "type": "Point",
@@ -14860,10 +12835,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "15:26",
-        "Isaac": 55,
-        "Iliana": 23,
-        "Karina": 22
+        "hora": "15:26"
       },
       "geometry": {
         "type": "Point",
@@ -14882,10 +12854,7 @@
         "edad": 41,
         "sexo": "M",
         "fecha": "2026-04-15",
-        "hora": "14:22",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "14:22"
       },
       "geometry": {
         "type": "Point",
@@ -14904,10 +12873,7 @@
         "edad": 71,
         "sexo": "M",
         "fecha": "2026-04-24",
-        "hora": "20:28",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "20:28"
       },
       "geometry": {
         "type": "Point",
@@ -14926,10 +12892,7 @@
         "edad": 50,
         "sexo": "F",
         "fecha": "2026-04-16",
-        "hora": "19:27",
-        "Isaac": 52,
-        "Iliana": 26,
-        "Karina": 22
+        "hora": "19:27"
       },
       "geometry": {
         "type": "Point",
@@ -14948,10 +12911,7 @@
         "edad": 62,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "08:24",
-        "Isaac": 51,
-        "Iliana": 30,
-        "Karina": 19
+        "hora": "08:24"
       },
       "geometry": {
         "type": "Point",
@@ -14970,10 +12930,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-13",
-        "hora": "19:07",
-        "Isaac": 50,
-        "Iliana": 24,
-        "Karina": 26
+        "hora": "19:07"
       },
       "geometry": {
         "type": "Point",
@@ -14992,10 +12949,7 @@
         "edad": 68,
         "sexo": "F",
         "fecha": "2026-04-09",
-        "hora": "08:00",
-        "Isaac": 52,
-        "Iliana": 30,
-        "Karina": 18
+        "hora": "08:00"
       },
       "geometry": {
         "type": "Point",
@@ -15014,10 +12968,7 @@
         "edad": 42,
         "sexo": "F",
         "fecha": "2026-04-07",
-        "hora": "10:26",
-        "Isaac": 58,
-        "Iliana": 23,
-        "Karina": 19
+        "hora": "10:26"
       },
       "geometry": {
         "type": "Point",
@@ -15036,10 +12987,7 @@
         "edad": 29,
         "sexo": "M",
         "fecha": "2026-04-09",
-        "hora": "18:59",
-        "Isaac": 56,
-        "Iliana": 22,
-        "Karina": 22
+        "hora": "18:59"
       },
       "geometry": {
         "type": "Point",
@@ -15058,10 +13006,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-24",
-        "hora": "10:40",
-        "Isaac": 51,
-        "Iliana": 29,
-        "Karina": 20
+        "hora": "10:40"
       },
       "geometry": {
         "type": "Point",
@@ -15080,10 +13025,7 @@
         "edad": 67,
         "sexo": "F",
         "fecha": "2026-04-13",
-        "hora": "13:09",
-        "Isaac": 54,
-        "Iliana": 24,
-        "Karina": 22
+        "hora": "13:09"
       },
       "geometry": {
         "type": "Point",
@@ -15102,10 +13044,7 @@
         "edad": 32,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "18:48",
-        "Isaac": 50,
-        "Iliana": 23,
-        "Karina": 27
+        "hora": "18:48"
       },
       "geometry": {
         "type": "Point",
@@ -15124,10 +13063,7 @@
         "edad": 55,
         "sexo": "M",
         "fecha": "2026-04-16",
-        "hora": "18:35",
-        "Isaac": 51,
-        "Iliana": 28,
-        "Karina": 21
+        "hora": "18:35"
       },
       "geometry": {
         "type": "Point",
@@ -15146,10 +13082,7 @@
         "edad": 70,
         "sexo": "F",
         "fecha": "2026-04-12",
-        "hora": "14:40",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "14:40"
       },
       "geometry": {
         "type": "Point",
@@ -15168,10 +13101,7 @@
         "edad": 72,
         "sexo": "M",
         "fecha": "2026-04-02",
-        "hora": "15:03",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "15:03"
       },
       "geometry": {
         "type": "Point",
@@ -15190,10 +13120,7 @@
         "edad": 32,
         "sexo": "M",
         "fecha": "2026-04-10",
-        "hora": "17:29",
-        "Isaac": 56,
-        "Iliana": 26,
-        "Karina": 18
+        "hora": "17:29"
       },
       "geometry": {
         "type": "Point",
@@ -15212,10 +13139,7 @@
         "edad": 49,
         "sexo": "F",
         "fecha": "2026-04-21",
-        "hora": "16:04",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "16:04"
       },
       "geometry": {
         "type": "Point",
@@ -15234,10 +13158,7 @@
         "edad": 27,
         "sexo": "F",
         "fecha": "2026-04-05",
-        "hora": "14:29",
-        "Isaac": 54,
-        "Iliana": 29,
-        "Karina": 17
+        "hora": "14:29"
       },
       "geometry": {
         "type": "Point",
@@ -15256,10 +13177,7 @@
         "edad": 64,
         "sexo": "M",
         "fecha": "2026-04-01",
-        "hora": "09:59",
-        "Isaac": 55,
-        "Iliana": 29,
-        "Karina": 16
+        "hora": "09:59"
       },
       "geometry": {
         "type": "Point",
@@ -15278,10 +13196,7 @@
         "edad": 69,
         "sexo": "F",
         "fecha": "2026-04-04",
-        "hora": "17:18",
-        "Isaac": 52,
-        "Iliana": 25,
-        "Karina": 23
+        "hora": "17:18"
       },
       "geometry": {
         "type": "Point",
@@ -15300,10 +13215,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-30",
-        "hora": "16:32",
-        "Isaac": 52,
-        "Iliana": 27,
-        "Karina": 21
+        "hora": "16:32"
       },
       "geometry": {
         "type": "Point",
@@ -15322,10 +13234,7 @@
         "edad": 60,
         "sexo": "F",
         "fecha": "2026-04-28",
-        "hora": "11:01",
-        "Isaac": 57,
-        "Iliana": 29,
-        "Karina": 14
+        "hora": "11:01"
       },
       "geometry": {
         "type": "Point",
@@ -15344,10 +13253,7 @@
         "edad": 62,
         "sexo": "F",
         "fecha": "2026-04-03",
-        "hora": "18:52",
-        "Isaac": 57,
-        "Iliana": 26,
-        "Karina": 17
+        "hora": "18:52"
       },
       "geometry": {
         "type": "Point",
@@ -15366,10 +13272,7 @@
         "edad": 42,
         "sexo": "M",
         "fecha": "2026-04-22",
-        "hora": "13:28",
-        "Isaac": 52,
-        "Iliana": 24,
-        "Karina": 24
+        "hora": "13:28"
       },
       "geometry": {
         "type": "Point",
@@ -15388,10 +13291,7 @@
         "edad": 49,
         "sexo": "M",
         "fecha": "2026-04-29",
-        "hora": "17:38",
-        "Isaac": 53,
-        "Iliana": 23,
-        "Karina": 24
+        "hora": "17:38"
       },
       "geometry": {
         "type": "Point",
