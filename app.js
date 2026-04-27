@@ -114,11 +114,6 @@ async function cargarSeccionesNaucalpan() {
           Encuestas: ${totalEncuestas}
         `);  
 
-        document.getElementById('seccion-info').innerHTML = `
-          <b>Sección:</b> ${seccion}<br>
-          <b>Encuestas:</b> ${totalEncuestas}
-        `;
-
         targetLayer.setStyle({
 
           weight: 3,
@@ -141,11 +136,6 @@ async function cargarSeccionesNaucalpan() {
 
         const totalEncuestas =
           contarEncuestasPorSeccion(seccion);
-
-        document.getElementById('seccion-info').innerHTML = `
-          <b>Sección:</b> ${seccion}<br>
-          <b>Encuestas:</b> ${totalEncuestas}
-        `;
 
         map.fitBounds(event.target.getBounds(), {
 
@@ -304,6 +294,74 @@ async function cargarEncuestas() {
 
 }
 
+function configurarLayersSidebar() {
+
+  document
+    .getElementById('toggle-municipios')
+    .addEventListener('change', (event) => {
+
+      if (event.target.checked) {
+
+        municipiosLayer.addTo(map);
+
+      } else {
+
+        map.removeLayer(municipiosLayer);
+
+      }
+
+    });
+
+  document
+    .getElementById('toggle-secciones')
+    .addEventListener('change', (event) => {
+
+      if (event.target.checked) {
+
+        seccionesNaucalpanLayer.addTo(map);
+
+      } else {
+
+        map.removeLayer(seccionesNaucalpanLayer);
+
+      }
+
+    });
+
+  document
+    .getElementById('toggle-heatmap')
+    .addEventListener('change', (event) => {
+
+      if (event.target.checked) {
+
+        heatmapLayer.addTo(map);
+
+      } else {
+
+        map.removeLayer(heatmapLayer);
+
+      }
+
+    });
+
+  document
+    .getElementById('toggle-encuestas')
+    .addEventListener('change', (event) => {
+
+      if (event.target.checked) {
+
+        encuestasLayer.addTo(map);
+
+      } else {
+
+        map.removeLayer(encuestasLayer);
+
+      }
+
+    });
+
+}
+
 async function inicializarMapa() {
 
   try {
@@ -316,26 +374,11 @@ async function inicializarMapa() {
 
     municipiosLayer.addTo(map);
 
-    // encuestasLayer.addTo(map);
-
     seccionesNaucalpanLayer.addTo(map);
 
-    L.control.layers(
+    heatmapLayer.addTo(map);
 
-      {},
-
-      {
-        'Municipios': municipiosLayer,
-        'Encuestas': encuestasLayer,
-        'Secciones': seccionesNaucalpanLayer,
-        'Mapa de Calor': heatmapLayer        
-      },
-
-      {
-        collapsed: false
-      }
-
-    ).addTo(map);
+    configurarLayersSidebar();
 
   } catch (error) {
 
