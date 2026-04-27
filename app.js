@@ -12,11 +12,9 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let municipiosLayer;
 let seccionesNaucalpanLayer;
-let encuestasPorSeccionLayer;
 let encuestasLayer;
 let heatmapLayer;
 let encuestasGeojson;
-let sexoFilter = 'ALL';
 
 async function cargarMunicipios() {
 
@@ -165,100 +163,6 @@ async function cargarSeccionesNaucalpan() {
 
 }
 
-function renderEncuestasPorSeccion() {
-
-  if (encuestasPorSeccionLayer) {
-
-    map.removeLayer(encuestasPorSeccionLayer);
-
-  }
-
-  const filteredFeatures =
-    sexoFilter === 'ALL'
-
-      ? encuestasGeojson.features
-
-      : encuestasGeojson.features.filter(
-          feature =>
-            feature.properties.sexo === sexoFilter
-        );
-
-  const seccionesAgrupadas = {};
-
-  filteredFeatures.forEach(feature => {
-
-    const seccion = feature.properties.seccion;
-
-    if (!seccionesAgrupadas[seccion]) {
-
-      seccionesAgrupadas[seccion] = [];
-
-    }
-
-    seccionesAgrupadas[seccion].push(feature);
-
-  });
-
-  const markers = [];
-
-  seccionesNaucalpanLayer.eachLayer(layer => {
-
-    const feature = layer.feature;
-
-    const seccion =
-      feature.properties.seccion;
-
-    const encuestas =
-      seccionesAgrupadas[seccion];
-
-    if (!encuestas || encuestas.length === 0) {
-
-      return;
-
-    }
-
-    const center =
-      layer.getBounds().getCenter();
-
-    const total =
-      encuestas.length;
-
-    const marker = L.marker(center, {
-
-      icon: L.divIcon({
-
-        className: 'seccion-marker',
-
-        html: `
-          <div class="marker-circle">
-            <div>${seccion}</div>
-            <strong>${total}</strong>
-          </div>
-        `,
-
-        iconSize: [52, 52],
-        iconAnchor: [26, 26]
-
-      })
-
-    });
-
-    marker.bindPopup(`
-      <b>Sección ${seccion}</b><br>
-      Encuestas: ${total}
-    `);
-
-    markers.push(marker);
-
-  });
-
-  encuestasPorSeccionLayer =
-    L.layerGroup(markers);
-
-  encuestasPorSeccionLayer.addTo(map);
-
-}
-
 function renderEncuestas() {
 
   if (encuestasLayer) {
@@ -268,14 +172,7 @@ function renderEncuestas() {
   }
 
   const filteredFeatures =
-    sexoFilter === 'ALL'
-
-      ? encuestasGeojson.features
-
-      : encuestasGeojson.features.filter(
-          feature =>
-            feature.properties.sexo === sexoFilter
-        );
+  encuestasGeojson.features;
 
   document.getElementById('total-encuestas').textContent =
     filteredFeatures.length;
@@ -362,14 +259,7 @@ function renderHeatmap() {
   }
 
   const filteredFeatures =
-    sexoFilter === 'ALL'
-
-      ? encuestasGeojson.features
-
-      : encuestasGeojson.features.filter(
-          feature =>
-            feature.properties.sexo === sexoFilter
-        );
+  encuestasGeojson.features;
 
   const heatPoints = filteredFeatures.map(feature => {
 
@@ -462,16 +352,6 @@ function contarEncuestasPorSeccion(seccion) {
   ).length;
 
 }
-
-document
-  .getElementById('sexo-filter')
-  .addEventListener('change', (event) => {
-
-    sexoFilter = event.target.value;
-
-    renderEncuestas();
-
-  });
 
 window.addEventListener('DOMContentLoaded', () => {
 
