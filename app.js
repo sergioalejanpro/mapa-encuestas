@@ -12,6 +12,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let municipiosLayer;
 let seccionesNaucalpanLayer;
+let encuestasPorSeccionLayer;
 let encuestasLayer;
 let heatmapLayer;
 let encuestasGeojson;
@@ -86,29 +87,18 @@ async function cargarSeccionesNaucalpan() {
         weight: 1,
         fillOpacity: 0
 
-        // color: '#ff6b6b',
-        // weight: 2,
-        // opacity: 1,
-
-        // fillColor: '#ff6b6b',
-        // fillOpacity: 0.1
-
       };
 
     },
 
   onEachFeature: (feature, layer) => {
 
-    layer.bindTooltip(
+    layer.bindTooltip('', {
 
-      `Sección ${feature.properties.seccion}`,
+      sticky: true,
+      direction: 'top'
 
-      {
-        sticky: true,
-        direction: 'top'
-      }
-
-    );    
+    }); 
 
     layer.on({
 
@@ -120,6 +110,11 @@ async function cargarSeccionesNaucalpan() {
 
         const totalEncuestas =
           contarEncuestasPorSeccion(seccion);
+
+        targetLayer.setTooltipContent(`
+          <b>Sección ${seccion}</b><br>
+          Encuestas: ${totalEncuestas}
+        `);  
 
         document.getElementById('seccion-info').innerHTML = `
           <b>Sección:</b> ${seccion}<br>
@@ -167,6 +162,100 @@ async function cargarSeccionesNaucalpan() {
   }
 
   });
+
+}
+
+function renderEncuestasPorSeccion() {
+
+  if (encuestasPorSeccionLayer) {
+
+    map.removeLayer(encuestasPorSeccionLayer);
+
+  }
+
+  const filteredFeatures =
+    sexoFilter === 'ALL'
+
+      ? encuestasGeojson.features
+
+      : encuestasGeojson.features.filter(
+          feature =>
+            feature.properties.sexo === sexoFilter
+        );
+
+  const seccionesAgrupadas = {};
+
+  filteredFeatures.forEach(feature => {
+
+    const seccion = feature.properties.seccion;
+
+    if (!seccionesAgrupadas[seccion]) {
+
+      seccionesAgrupadas[seccion] = [];
+
+    }
+
+    seccionesAgrupadas[seccion].push(feature);
+
+  });
+
+  const markers = [];
+
+  seccionesNaucalpanLayer.eachLayer(layer => {
+
+    const feature = layer.feature;
+
+    const seccion =
+      feature.properties.seccion;
+
+    const encuestas =
+      seccionesAgrupadas[seccion];
+
+    if (!encuestas || encuestas.length === 0) {
+
+      return;
+
+    }
+
+    const center =
+      layer.getBounds().getCenter();
+
+    const total =
+      encuestas.length;
+
+    const marker = L.marker(center, {
+
+      icon: L.divIcon({
+
+        className: 'seccion-marker',
+
+        html: `
+          <div class="marker-circle">
+            <div>${seccion}</div>
+            <strong>${total}</strong>
+          </div>
+        `,
+
+        iconSize: [52, 52],
+        iconAnchor: [26, 26]
+
+      })
+
+    });
+
+    marker.bindPopup(`
+      <b>Sección ${seccion}</b><br>
+      Encuestas: ${total}
+    `);
+
+    markers.push(marker);
+
+  });
+
+  encuestasPorSeccionLayer =
+    L.layerGroup(markers);
+
+  encuestasPorSeccionLayer.addTo(map);
 
 }
 
@@ -256,6 +345,7 @@ function renderEncuestas() {
   encuestasLayer = markers;
 
   encuestasLayer.addTo(map);
+  // renderEncuestasPorSeccion();
 
   seccionesNaucalpanLayer.bringToFront();  
 
@@ -348,7 +438,7 @@ async function inicializarMapa() {
         'Municipios': municipiosLayer,
         'Encuestas': encuestasLayer,
         'Secciones': seccionesNaucalpanLayer,
-        'Heatmap': heatmapLayer        
+        'Mapa de Calor': heatmapLayer        
       },
 
       {

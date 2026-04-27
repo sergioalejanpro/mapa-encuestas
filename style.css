@@ -155,3 +155,36 @@ body {
   transform: translateX(0) !important;
 }
 
+
+.seccion-marker .marker-circle {
+
+  width: 52px;
+  height: 52px;
+
+  border-radius: 50%;
+
+  background: rgba(33, 150, 243, 0.92);
+
+  border: 3px solid white;
+
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+
+  font-size: 11px;
+
+  box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+
+}
+
+.seccion-marker strong {
+
+  font-size: 14px;
+
+}
