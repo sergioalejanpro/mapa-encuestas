@@ -25,7 +25,6 @@ body {
 }
 
 .sidebar-logo {
-
   width: 100%;
 
   max-width: 220px;
@@ -33,7 +32,6 @@ body {
   display: block;
 
   margin: 0 auto 24px auto;
-
 }
 
 .sidebar-section {
@@ -90,7 +88,6 @@ body {
 }
 
 #menu-toggle {
-
   display: none;
 
   position: fixed;
@@ -112,18 +109,15 @@ body {
 
   cursor: pointer;
 
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 @media (max-width: 900px) {
-
   #menu-toggle {
     display: block;
   }
 
   #sidebar {
-
     position: fixed;
 
     top: 0;
@@ -146,7 +140,6 @@ body {
   #sidebar.open {
     transform: translateX(0);
   }
-
 }
 
 #map {
@@ -158,9 +151,7 @@ body {
   transform: translateX(0) !important;
 }
 
-
 .seccion-marker .marker-circle {
-
   width: 52px;
   height: 52px;
 
@@ -182,14 +173,11 @@ body {
 
   font-size: 11px;
 
-  box-shadow: 0 2px 6px rgba(0,0,0,0.35);
-
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
 }
 
 .seccion-marker strong {
-
   font-size: 14px;
-
 }
 
 .sidebar-block {
@@ -197,7 +185,6 @@ body {
 }
 
 .sidebar-title {
-
   font-size: 18px;
   font-weight: bold;
 
@@ -205,19 +192,15 @@ body {
 }
 
 .sidebar-subtitle {
-
   color: #666;
   font-size: 14px;
-
 }
 
 .question-title {
-
   font-size: 16px;
   font-weight: bold;
 
   line-height: 1.4;
-
 }
 
 .candidate-row {
@@ -225,18 +208,15 @@ body {
 }
 
 .candidate-header {
-
   display: flex;
   justify-content: space-between;
 
   margin-bottom: 8px;
 
   font-size: 15px;
-
 }
 
 .candidate-bar {
-
   width: 100%;
   height: 18px;
 
@@ -245,15 +225,12 @@ body {
   border-radius: 999px;
 
   overflow: hidden;
-
 }
 
 .candidate-fill {
-
   height: 100%;
 
   border-radius: 999px;
-
 }
 
 .fill-a {
@@ -272,27 +249,22 @@ body {
 }
 
 .summary-item {
-
   display: flex;
   justify-content: space-between;
 
   margin-bottom: 10px;
 
   font-size: 14px;
-
 }
 
 .layers-title {
-
   font-size: 15px;
   font-weight: bold;
 
   margin-bottom: 12px;
-
 }
 
 .dashboard-button {
-
   display: block;
 
   width: 100%;
@@ -312,7 +284,6 @@ body {
   font-weight: bold;
 
   box-sizing: border-box;
-
 }
 
 .dashboard-button:hover {
@@ -326,33 +297,26 @@ body {
 
 .sidebar-title,
 .sidebar-subtitle {
-
   text-align: center;
-
 }
 
 .sidebar-subtitle {
-
   text-align: center;
 
   line-height: 1.5;
 
   margin-top: 10px;
-
 }
 
 .logo-container {
-
   padding-bottom: 0px;
 
   margin-bottom: 25px;
 
   border-bottom: 1px solid #e5e5e5;
-
 }
 
 .layers-box {
-
   background: #f7f7f7;
 
   border: 1px solid #e2e2e2;
@@ -360,19 +324,14 @@ body {
   border-radius: 10px;
 
   padding: 14px;
-
 }
 
 .leaflet-popup-content-wrapper {
-
   background: rgba(255, 255, 255, 0.78);
 
   backdrop-filter: blur(4px);
-
 }
 
 .leaflet-popup-tip {
-
   background: rgba(255, 255, 255, 0.78);
-
 }
