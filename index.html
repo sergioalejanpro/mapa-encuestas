@@ -1,200 +1,153 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Mapa de Encuestas</title>
+    <title>Mapa de Encuestas</title>
 
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet/dist/leaflet.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
-  />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
+    />
 
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
-  />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
+    />
 
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <button id="menu-toggle">
-    ☰
-  </button>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <button id="menu-toggle">☰</button>
 
-  <div id="app">
+    <div id="app">
+      <aside id="sidebar">
+        <div class="logo-container">
+          <img src="images/logo.png" alt="Logo" class="sidebar-logo" />
+        </div>
 
-  <aside id="sidebar">
+        <div class="sidebar-block">
+          <div class="sidebar-title">
+            ENCUESTA MORENA - NAUCALPAN ABRIL 2026
+          </div>
 
-    <div class="logo-container">
+          <div class="sidebar-subtitle">
+            <b>
+              A quién prefiere para candidato de Morena a la Alcaldía de
+              Naucalpan ?
+            </b>
+          </div>
+        </div>
 
-      <img
-        src="images/logo.png"
-        alt="Logo"
-        class="sidebar-logo"
-      />
-
-    </div>
-
-    <div class="sidebar-block">
-
-      <div class="sidebar-title">
-        ENCUESTA MORENA - NAUCALPAN ABRIL 2026
-      </div>
-
-      <div class="sidebar-subtitle">
-        <b>
-        A quién prefiere para candidato de Morena a la Alcaldía de Naucalpan ? 
-        </b>
-      </div>
-
-    </div>
-
-    <div class="sidebar-block">
-
-      <!-- <div class="question-title">
+        <div class="sidebar-block">
+          <!-- <div class="question-title">
         Si hoy fueran las elecciones...
         ¿por quién votaría?
       </div> -->
-
-    </div>
-
-    <div class="sidebar-block">
-
-      <div class="candidate-row">
-
-        <div class="candidate-header">
-          <span>Isaac Montoya Márquez</span>
-          <strong>56%</strong>
         </div>
 
-        <div class="candidate-bar">
-          <div class="candidate-fill fill-a"></div>
+        <div class="sidebar-block">
+          <div class="candidate-row">
+            <div class="candidate-header">
+              <span>Isaac Montoya Márquez</span>
+              <strong>56%</strong>
+            </div>
+
+            <div class="candidate-bar">
+              <div class="candidate-fill fill-a"></div>
+            </div>
+          </div>
+
+          <div class="candidate-row">
+            <div class="candidate-header">
+              <span>liliana Gollas Trejo</span>
+              <strong>24%</strong>
+            </div>
+
+            <div class="candidate-bar">
+              <div class="candidate-fill fill-b"></div>
+            </div>
+          </div>
+
+          <div class="candidate-row">
+            <div class="candidate-header">
+              <span>Karina Labastida Sotelo</span>
+              <strong>20%</strong>
+            </div>
+
+            <div class="candidate-bar">
+              <div class="candidate-fill fill-c"></div>
+            </div>
+          </div>
         </div>
 
-      </div>
+        <div class="sidebar-block">
+          <div class="summary-item">
+            <span>Total encuestas</span>
+            <strong id="total-encuestas">700</strong>
+          </div>
 
-      <div class="candidate-row">
-
-        <div class="candidate-header">
-          <span>liliana Gollas Trejo</span>
-          <strong>24%</strong>
-        </div>
-
-        <div class="candidate-bar">
-          <div class="candidate-fill fill-b"></div>
-        </div>
-
-      </div>
-
-      <div class="candidate-row">
-
-        <div class="candidate-header">
-          <span>Karina Labastida Sotelo</span>
-          <strong>20%</strong>
-        </div>
-
-        <div class="candidate-bar">
-          <div class="candidate-fill fill-c"></div>
-        </div>
-
-      </div>
-
-    </div>
-
-    <div class="sidebar-block">
-
-      <div class="summary-item">
-        <span>Total encuestas</span>
-        <strong id="total-encuestas">700</strong>
-      </div>
-
-      <!-- <div class="summary-item">
+          <!-- <div class="summary-item">
         <span>Secciones cubiertas</span>
         <strong>94</strong>
       </div> -->
+        </div>
 
+        <div class="sidebar-block">
+          <div class="layers-title">Mostrar:</div>
+
+          <div class="layers-box">
+            <div class="layer-option">
+              <label>
+                <input type="checkbox" id="toggle-municipios" checked />
+                Municipios
+              </label>
+            </div>
+
+            <div class="layer-option">
+              <label>
+                <input type="checkbox" id="toggle-secciones" checked />
+                Secciones
+              </label>
+            </div>
+
+            <div class="layer-option">
+              <label>
+                <input type="checkbox" id="toggle-heatmap" checked />
+                Mapa de calor
+              </label>
+            </div>
+
+            <div class="layer-option">
+              <label>
+                <input type="checkbox" id="toggle-encuestas" checked />
+                Encuestas
+              </label>
+            </div>
+
+            <div class="layer-option">
+              <label>
+                <input type="checkbox" id="toggle-seccion-categorias" checked />
+                Secciones categorizadas
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <a href="#" class="dashboard-button"> Ver dashboard extendido </a>
+      </aside>
+
+      <main id="map"></main>
     </div>
 
-    <div class="sidebar-block">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-      <div class="layers-title">
-        Mostrar:
-      </div>
+    <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
 
-      <div class="layers-box">
-
-        <div class="layer-option">
-          <label>
-            <input
-              type="checkbox"
-              id="toggle-municipios"
-              checked
-            >
-            Municipios
-          </label>
-        </div>
-
-        <div class="layer-option">
-          <label>
-            <input
-              type="checkbox"
-              id="toggle-secciones"
-              checked
-            >
-            Secciones
-          </label>
-        </div>
-
-        <div class="layer-option">
-          <label>
-            <input
-              type="checkbox"
-              id="toggle-heatmap"
-              checked
-            >
-            Mapa de calor
-          </label>
-        </div>
-
-        <div class="layer-option">
-          <label>
-            <input
-              type="checkbox"
-              id="toggle-encuestas"
-              checked
-            >
-            Encuestas
-          </label>
-        </div>
-      </div>
-    </div>
-
-    <a
-      href="#"
-      class="dashboard-button"
-    >
-      Ver dashboard extendido
-    </a>
-
-  </aside>
-
-    <main id="map"></main>
-
-  </div>
-
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-
-  <script src="config.js"></script>
-  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
-  <script src="app.js"></script>
-
-</body>
+    <script src="config.js"></script>
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+    <script src="app.js"></script>
+  </body>
 </html>
