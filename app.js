@@ -4,10 +4,10 @@ const map = L.map("map").setView(
 );
 
 L.tileLayer(
-  "https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png",
+  "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
 
   {
-    attribution: "&copy; OpenStreetMap &copy; CARTO",
+    attribution: "&copy; OpenStreetMap contributors",
   },
 ).addTo(map);
 
